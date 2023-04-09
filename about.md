@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Over mij
+permalink: /about-me/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+👋 Ik ben Roald en woon sinds vijf jaar in Zwitserland. In de loop der jaren zijn mij grote en kleine verschillen tussen Nederland en Zwitserland opgevallen. Het leek me wel leuk om deze gebruiks- en cultuurverschillen te verzamelen.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Ik heb ook nog een Engelstalige blog, cookncode.com, waar ik zelfbedachte recepten en kookhacks verzamel en schrijf over een programmeertaal die vooral in de industriële automatisering wordt gebruikt.
