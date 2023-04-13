@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Met enige onregelmaat zal ik hier korte krabbels over schrijven.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: 🇨🇭
 
 # Build settings
 plugins:
