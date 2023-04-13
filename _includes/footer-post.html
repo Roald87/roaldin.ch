@@ -1,25 +1,16 @@
-{% for post in site.posts %}
-  {% if post.url == page.url %}
-    {% assign post_index0 = forloop.index0 %}
-    {% assign post_index1 = forloop.index %}
-  {% endif %}
-{% endfor %}
-{% for post in site.posts %}
-  {% if post_index0 == forloop.index %}
-    {% assign next_post = post %}
-  {% endif %}
-  {% if post_index1 == forloop.index0 %}
-    {% assign prev_post = post %}
-  {% endif %}
-{% endfor %}
+{% for post in site.posts %} {% if post.url == page.url %} {% assign post_index0
+= forloop.index0 %} {% assign post_index1 = forloop.index %} {% endif %} {%
+endfor %} {% for post in site.posts %} {% if post_index0 == forloop.index %} {%
+assign next_post = post %} {% endif %} {% if post_index1 == forloop.index0 %} {%
+assign prev_post = post %} {% endif %} {% endfor %}
 
-<div style="float:left; width:50%;">
+<div style="float: left; width: 50%">
   {% if prev_post %}
-    <a href="{{ prev_post.url }}">❮ {{ prev_post.title }}</a>
+  <a href="{{ prev_post.url }}">❮ {{ prev_post.title }}</a>
   {% endif %}
 </div>
-<div style="float:right; width: 50%; text-align: right;">
+<div style="float: right; width: 50%; text-align: right">
   {% if next_post %}
-      <a href="{{ next_post.url }}">{{ next_post.title }} ❯</a>
+  <a href="{{ next_post.url }}">{{ next_post.title }} ❯</a>
   {% endif %}
 </div>

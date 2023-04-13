@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dagelijkse dingen in Zwitserland vanuit Nederlands perspectief 
+title: Dagelijkse dingen in Zwitserland vanuit Nederlands perspectief
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Sommige dingen vallen pas op als je er als buitenstaander naar kijkt. 
+  Sommige dingen vallen pas op als je er als buitenstaander naar kijkt.
   Met enige onregelmaat zal ik hier korte krabbels over schrijven.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -30,7 +30,6 @@ favicon: 🇨🇭
 # Build settings
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

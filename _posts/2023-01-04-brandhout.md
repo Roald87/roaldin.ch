@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Brandhout"
+title: "Brandhout"
 tags: cultuur
 ---
 

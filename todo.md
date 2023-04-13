@@ -1,9 +1,9 @@
 - [ ] RSS/Atom feed
-- [ ] favicon
+- [x] favicon
 - [ ] image resize
 - [ ] plausiable
 - [x] page navigation
 - [ ] commenting
 
-- [ ] pre commit format files 
+- [ ] pre commit format files
 - [ ] github actions
