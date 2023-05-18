@@ -3,7 +3,7 @@
 - [ ] image resize
 - [ ] beam analytics
 - [x] page navigation
-- [ ] commenting, github discussions?
+- [x] commenting, github discussions?
 - [x] page link should be the same
 - [ ] increase space below navigation
 
