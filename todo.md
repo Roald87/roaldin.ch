@@ -9,4 +9,4 @@
 
 - [x] pre commit format files
 - [x] github actions
-- [ ] precommit github action
+- [x] precommit github action
