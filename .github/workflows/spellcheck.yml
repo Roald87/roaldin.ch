@@ -31,6 +31,7 @@ jobs:
           files: _posts/*.md
 
       - name: Run spellcheck
+        if: steps.changed-markdown-files.outputs.any_changed == 'true'
         env:
           OPENAI_API_KEY: ${{secrets.OPENAI_API_KEY}}
         run: python _tools/spellinggpt/main.py ${{ steps.changed-markdown-files.outputs.all_changed_files }} -vvvv
