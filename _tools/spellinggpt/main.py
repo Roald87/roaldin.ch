@@ -39,16 +39,17 @@ def write_file(filename, text) -> None:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Spellcheck CLI")
-    parser.add_argument("filename", help="Input file name")
+    parser.add_argument("filename", nargs="+", help="Input file name(s)")
     parser.add_argument("-v", "--verbose", action="count", default=0, help="Increase verbosity level")
 
     args = parser.parse_args()
-    filename = args.filename
+    filenames = args.filename
 
     verbosity = args.verbose
     log_level = max(0, 3 - verbosity) * 10
     logging.basicConfig(level=log_level)
 
-    text = read_file(filename)
-    spellchecked_text = spellcheck(text)
-    write_file(filename, spellchecked_text)
+    for filename in filenames:
+        text = read_file(filename)
+        spellchecked_text = spellcheck(text)
+        write_file(filename, spellchecked_text)
