@@ -24,12 +24,14 @@ jobs:
       - name: Install Dependencies
         run: pip install -r _tools/spellinggpt/requirements.txt
 
-      - name: Get changed files
-        id: changed-files
+      - name: Get all changed *.md file(s) in the _posts folder
+        id: changed-markdown-files
         uses: tj-actions/changed-files@v35
+        with:
+          files: _posts/*.js
 
       - name: Run spellcheck
-        run: python _tools/spellinggpt/main.py ${{ steps.changed-files.outputs.all_changed_files }}
+        run: python _tools/spellinggpt/main.py ${{ steps.changed-markdown-files.outputs.all_changed_files }}
 
       - name: Push Changes to PR Branch
         uses: stefanzweifel/git-auto-commit-action@v4
