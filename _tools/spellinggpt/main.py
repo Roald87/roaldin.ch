@@ -1,3 +1,4 @@
+import argparse
 import logging
 import os
 import textwrap
@@ -39,6 +40,12 @@ def write_file(filename, text) -> None:
         file.write(text)
 
 if __name__ == "__main__":
-    # print(spellcheck("prober het noch eens, met dze text."))
-    fname = "text.md"
-    print(write_file(fname, spellcheck(read_file(fname))))
+    parser = argparse.ArgumentParser(description="Spellcheck CLI")
+    parser.add_argument("filename", help="Input file name")
+
+    args = parser.parse_args()
+    filename = args.filename
+
+    text = read_file(filename)
+    spellchecked_text = spellcheck(text)
+    write_file(filename, spellchecked_text)
