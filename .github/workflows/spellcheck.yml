@@ -28,7 +28,7 @@ jobs:
         id: changed-markdown-files
         uses: tj-actions/changed-files@v35
         with:
-          files: _posts/*.js
+          files: _posts/*.md
 
       - name: Run spellcheck
         env:
