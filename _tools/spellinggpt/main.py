@@ -10,7 +10,7 @@ openai.api_key = os.environ.get("OPENAI_API_KEY")
 def spellcheck_prompt(text) -> str:
     return textwrap.dedent(f"""\
     Corrigeer de spelling, interpunctie en grammatica van de volgende zin.
-    Reageer alleen met de gecorrigeerde tekst in een code blok en behoud markdown opmaak.
+    Reageer alleen met de gecorrigeerde tekst en behoud markdown opmaak.
 
     Tekst:
     {text}
