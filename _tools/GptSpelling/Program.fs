@@ -1,26 +1,50 @@
-﻿open OpenAI
-open OpenAI.Edits
+﻿open Argu
+open GptSpelling.Gpt
 open System
+open System.IO
 
-let apiKey =
-    let key = Environment.GetEnvironmentVariable("OPENAI_API_KEY")
-    match key  with
-    | null -> failwith "OPENAI_API_KEY not found in environmental variables"
-    | _ -> key
+type CliError = | ArgumentsNotSpecified
 
-let client =
-    Config(
-        { Endpoint = "https://api.openai.com/v1"
-          ApiKey =  apiKey },
-        HttpRequester()
-    )
+let getExitCode result =
+    match result with
+    | Ok () -> 0
+    | Error err ->
+        match err with
+        | ArgumentsNotSpecified -> 1
 
-let result =
-    client
-    |> edits
-    |> Edits.create
-           { Model = "text-davinci-edit-001"
-             Input = "What day of the wek is is?"
-             Instruction = "Fix the spelling mistakes" }
 
-printfn "%A" (result)
+type Arguments =
+    | Filename of path: string
+
+    interface IArgParserTemplate with
+        member this.Usage =
+            match this with
+            | Filename _ -> "Filename to correct the spelling of"
+
+let writeAllText path contents = File.WriteAllText(path, contents)
+
+[<EntryPoint>]
+let main argv =
+    let errorHandler =
+        ProcessExiter(
+            colorizer =
+                function
+                | ErrorCode.HelpText -> None
+                | _ -> Some ConsoleColor.Red
+        )
+
+    let parser =
+        ArgumentParser.Create<Arguments>(
+            programName = "spellgpt",
+            errorHandler = errorHandler
+        )
+
+    match parser.ParseCommandLine argv with
+    | p when p.Contains(Filename) ->
+        let filename = p.GetResult Filename
+        spellcheck filename |> writeAllText "test.txt"
+        Ok
+    | _ ->
+        printfn "%s" (parser.PrintUsage())
+        Error ArgumentsNotSpecified
+    |> getExitCode
