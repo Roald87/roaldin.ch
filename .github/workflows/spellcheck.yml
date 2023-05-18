@@ -11,6 +11,11 @@ jobs:
   spellcheck:
     runs-on: ubuntu-latest
     name: Spellcheck with ChatGPT
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      # https://github.com/stefanzweifel/git-auto-commit-action/issues/80
+      contents: write
     steps:
       - uses: actions/checkout@v3
         with:
