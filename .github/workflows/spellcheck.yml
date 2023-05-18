@@ -31,7 +31,7 @@ jobs:
           files: _posts/*.js
 
       - name: Run spellcheck
-        run: python _tools/spellinggpt/main.py ${{ steps.changed-markdown-files.outputs.all_changed_files }}
+        run: python _tools/spellinggpt/main.py ${{ steps.changed-markdown-files.outputs.all_changed_files }} -vvvv
 
       - name: Push Changes to PR Branch
         uses: stefanzweifel/git-auto-commit-action@v4
