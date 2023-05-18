@@ -1,0 +1,39 @@
+name: Spellcheck PR
+
+on:
+  pull_request:
+    branches:
+      - "*"
+    paths:
+      - "_posts/*.md"
+
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11
+
+      - name: Install Dependencies
+        run: pip install -r _tools/spellinggpt/requirements.txt
+
+      - name: Run Python Script
+        run: python _tools/spellinggpt/main.py ${{ steps.git-diff.outputs.files_changed }}
+
+      - name: Check for Changes
+        id: git-diff
+        run: echo ::set-output name=files_changed::$(git diff --name-only)
+
+      - name: Push Changes to PR Branch
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Spellcheck by ChatGPT
+          commit_user_name: GitHub Actions
+          commit_user_email: actions@github.com
+          file_pattern: "_posts/*.md"
