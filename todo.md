@@ -3,8 +3,9 @@
 - [ ] image resize
 - [ ] beam analytics
 - [x] page navigation
-- [ ] commenting
+- [ ] commenting, github discussions?
 - [x] page link should be the same
+- [ ] increase space below navigation
 
 - [x] pre commit format files
 - [x] github actions
