@@ -9,8 +9,9 @@ openai.api_key = os.environ.get("OPENAI_API_KEY")
 
 def spellcheck_prompt(text) -> str:
     return textwrap.dedent(f"""\
-    Corrigeer de spelling, interpunctie en grammatica van de volgende zin.
+    Corrigeer de spelling, interpunctie en grammatica van de volgende tekst.
     Reageer alleen met de gecorrigeerde tekst en behoud markdown opmaak.
+    Verander the variable namen van de yaml front matter niet.
 
     Tekst:
     {text}
