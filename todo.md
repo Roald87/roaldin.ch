@@ -1,10 +1,12 @@
 - [x] RSS/Atom feed
 - [x] favicon
 - [ ] image resize
-- [ ] plausiable
+- [ ] beam analytics
 - [x] page navigation
-- [ ] commenting
+- [ ] commenting, github discussions?
 - [x] page link should be the same
+- [ ] increase space below navigation
 
 - [x] pre commit format files
-- [ ] github actions
+- [x] github actions
+- [x] precommit github action

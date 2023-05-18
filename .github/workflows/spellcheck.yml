@@ -1,0 +1,51 @@
+name: Spellcheck PR
+
+on:
+  pull_request:
+    branches:
+      - "*"
+    paths:
+      - "_posts/*.md"
+
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+    name: Spellcheck with ChatGPT
+    if: github.event.pull_request.draft == false
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      # https://github.com/stefanzweifel/git-auto-commit-action/issues/80
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # OR "2" -> To retrieve the preceding commit.
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11
+
+      - name: Install Dependencies
+        run: pip install -r _tools/spellinggpt/requirements.txt
+
+      - name: Get all changed *.md file(s) in the _posts folder
+        id: changed-markdown-files
+        uses: tj-actions/changed-files@v35
+        with:
+          files: _posts/*.md
+
+      - name: Run spellcheck
+        if: steps.changed-markdown-files.outputs.any_changed == 'true'
+        env:
+          OPENAI_API_KEY: ${{secrets.OPENAI_API_KEY}}
+        run: python _tools/spellinggpt/main.py ${{ steps.changed-markdown-files.outputs.all_changed_files }} -vvvv
+
+      - name: Push Changes to PR Branch
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Spellcheck by ChatGPT
+          commit_user_name: GitHub Actions
+          commit_user_email: actions@github.com
+          file_pattern: "_posts/*.md"

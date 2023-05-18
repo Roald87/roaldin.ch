@@ -1,5 +1,13 @@
+# jekyll
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# .NET
+bin/
+obj/
+
+# PyCharm
+.idea/
