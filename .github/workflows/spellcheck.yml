@@ -11,6 +11,7 @@ jobs:
   spellcheck:
     runs-on: ubuntu-latest
     name: Spellcheck with ChatGPT
+    if: github.event.pull_request.draft == false
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
       # added or changed files to the repository.
