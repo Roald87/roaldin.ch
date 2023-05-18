@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Reiskostenvergoeding"
-tags: geld
 ---
 
 Toen vriendin I. haar eerste arbeidscontract kreeg, viel ons iets op: er werd niets over een reiskostenvergoeding gezegd. Navraag leerde dat dit niet gebruikelijk is in Zwitserland.

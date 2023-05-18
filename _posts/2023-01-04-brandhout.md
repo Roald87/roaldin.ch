@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Brandhout"
-tags: cultuur
 ---
 
 Collega F. meldde laatst dat hij de volgende dag niet naar kantoor zou komen. Er werd namelijk brandhout geleverd voor de familie berghut. Aangezien de berghut niet met de auto te bereiken was, betekende dat het nodige sjouwwerk.
