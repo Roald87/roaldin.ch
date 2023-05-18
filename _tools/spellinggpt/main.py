@@ -4,6 +4,8 @@ import textwrap
 
 import openai
 
+logging.basicConfig(level=logging.DEBUG)
+
 openai.api_key = os.environ.get("OPENAI_API_KEY")
 
 def prompt(text) -> str:
@@ -22,7 +24,7 @@ def spellcheck(text: str) -> str:
       max_tokens=2048,
       temperature=0
     )
-    logging.info(response)
+    logging.debug(f"API response: {response}")
 
     return response["choices"][0]["text"]
 
