@@ -10,10 +10,11 @@ on:
 jobs:
   spellcheck:
     runs-on: ubuntu-latest
-
+    name: Spellcheck with ChatGPT
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # OR "2" -> To retrieve the preceding commit.
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -23,12 +24,12 @@ jobs:
       - name: Install Dependencies
         run: pip install -r _tools/spellinggpt/requirements.txt
 
-      - name: Run Python Script
-        run: python _tools/spellinggpt/main.py ${{ steps.git-diff.outputs.files_changed }}
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v35
 
-      - name: Check for Changes
-        id: git-diff
-        run: echo ::set-output name=files_changed::$(git diff --name-only)
+      - name: Run spellcheck
+        run: python _tools/spellinggpt/main.py ${{ steps.changed-files.outputs.all_changed_files }}
 
       - name: Push Changes to PR Branch
         uses: stefanzweifel/git-auto-commit-action@v4
