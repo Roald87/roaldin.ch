@@ -53,4 +53,4 @@ if __name__ == "__main__":
     for filename in filenames:
         text = read_file(filename)
         spellchecked_text = spellcheck(text)
-        write_file(filename, spellchecked_text)
+        write_file(filename, spellchecked_text + "\n")
