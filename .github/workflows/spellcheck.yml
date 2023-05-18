@@ -1,11 +1,8 @@
 name: Spellcheck PR
 
+# workflow only runs on manual trigger
 on:
-  pull_request:
-    branches:
-      - "*"
-    paths:
-      - "_posts/*.md"
+  workflow_dispatch:
 
 jobs:
   spellcheck:
