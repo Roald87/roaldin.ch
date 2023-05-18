@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Oud papier
+Layout: post
+Title: Oud papier
 ---
 
-Out papier en karton worden hier gescheiden ingezameld. Zo'n eens per maand is het de beurt aan een [roulerende lokale vereniging](https://www.wettingen.ch/abfallarten/2095) om het op te halen. Sommige verenigingen komen met een professionele afvalwagen, anderen met een trekker en een platte kar.
+Oud papier en karton worden hier gescheiden ingezameld. Zo'n eens per maand is het de beurt aan een [roulerende lokale vereniging](https://www.wettingen.ch/abfallarten/2095) om het op te halen. Sommige verenigingen komen met een professionele afvalwagen, anderen met een trekker en een platte kar.
 
 Niet alleen de verzamelaars zijn soms een opvallende verschijning. Ook de mensen die het aan de straat zetten kunnen er wat van. Wij Nederlanders kennen Zwitsers natuurlijk als precies en georganiseerd, maar sommige buurtbewoners maken het wel heel bont.
 
