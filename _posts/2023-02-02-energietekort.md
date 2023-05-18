@@ -1,6 +1,6 @@
 ---
-Layout: post
-Title: Energietekort
+layout: post
+title: Energietekort
 ---
 
 Het was crisis in heel Europa dit najaar door de hoge gasprijzen. Zwitserland was hierin geen uitzondering. Ook al maakt gas, met 12,8%, een relatief klein gedeelte uit van de finale energievraag. Ter vergelijking, [in Nederland was het in 2020 63%](https://www.energieinnederland.nl/feiten-en-cijfers/energieincijfers/).

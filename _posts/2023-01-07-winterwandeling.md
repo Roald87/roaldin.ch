@@ -3,7 +3,7 @@ layout: post
 title: Winterwandeling
 ---
 
-De winter is normaal gesproken niet de tijd waaraan ik denk als ik aan wandelen denk. Maar door het warme weer en het uitblijven van sneeuw, is het nu ook in januari mogelijk om te wandelen zonder sneeuwschoenen.
+De winter is normaliter niet de tijd dat ik aan wandelen denk. Maar het warme weer en het uitblijven van sneeuw, maakt dat er nu ook in januari gewandeld kan worden. Zonder sneeuwschoenen.
 
 Vandaag zijn we de [Hirzli](https://wegwandern.ch/listing/hirzli-1641-m-morgenholz-niederurnen-wanderung-wandern/) opgelopen. We zijn begonnen met een klein achtpersoons bergbaantje omhoog. Daarna volgde een steile beklimming naar de top, waar de onderstaande foto is genomen. Vervolgens hebben we nog een stukje over de graat gelopen, om tenslotte weer met het baantje naar beneden te gaan.
 

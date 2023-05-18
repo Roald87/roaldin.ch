@@ -9,4 +9,4 @@ Niet alleen de verzamelaars zijn soms een opvallende verschijning. Ook de mensen
 
 Zo wordt het papier uiterst secuur, in gelijk grote stapels samengebonden. Er steekt geen papiertje uit. Zelfs de eierdoosjes worden, apart, gestapeld en gebonden.
 
-![oud papier en karton netjes opgestapeld](https://bear-images.sfo2.cdn.digitaloceanspaces.com/roaldruiter-1672954009-0.jpg)
+![oud papier en karton netjes opgestapeld](assets/oudpapier-1.jpg)
