@@ -31,6 +31,8 @@ jobs:
           files: _posts/*.js
 
       - name: Run spellcheck
+        env:
+          OPENAI_API_KEY: ${{secrets.OPENAI_API_KEY}}
         run: python _tools/spellinggpt/main.py ${{ steps.changed-markdown-files.outputs.all_changed_files }} -vvvv
 
       - name: Push Changes to PR Branch
