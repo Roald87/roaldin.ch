@@ -26,6 +26,6 @@ def spellcheck(text: str) -> str:
     )
     logging.debug(f"API response: {response}")
 
-    return response["choices"][0]["text"]
+    return response["choices"][0]["text"].strip()
 
 print(spellcheck("prober het noch eens, met dze text."))
