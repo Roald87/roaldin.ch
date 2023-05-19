@@ -6,7 +6,7 @@ meta_image: assets/riz-casimir-1.jpg
 
 Zwitserland heeft net als Nederland geen bijzondere keuken. Veel maaltijden bestaan uit een combinatie van kaas met aardappels (raclette), brood (fondue) of pasta ([Älpermagronen](https://de.m.wikipedia.org/wiki/Älplermagronen)). Ik ben geen grote kaasliefhebber, maar deze maaltijden vind ik op zijn tijd wel lekker.
 
-Een minder lekkere maaltijd is Riz Casimir, hieronder weinig flatteus op de foto. Ik heb het zelf nooit gehad en ik laat dat ook maar zo denk ik. De maaltijd staat ook nog eens op de [tiende plek van 's werelds "Minst smakelijke maaltijden"](https://www.tasteatlas.com/worst-rated-dishes-in-the-world).
+Een minder lekkere maaltijd is Riz Casimir, hieronder weinig flatteus op de foto. Ik heb het zelf nooit gehad en ik laat dat ook maar zo. De maaltijd staat ook nog eens op de [tiende plek van 's werelds "Minst smakelijke maaltijden"](https://www.tasteatlas.com/worst-rated-dishes-in-the-world).
 
 ![Bord riz casimir onder slecht verlichte omstandigheden](assets/riz-casimir-1.jpg)
 
