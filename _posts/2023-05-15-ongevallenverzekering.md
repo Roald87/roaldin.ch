@@ -1,9 +1,7 @@
 ---
-
-Layout: post
-Title: Ongevallenverzekering
-Meta_image: assets/ongevallenverzekering-1.jpg
-
+layout: post
+title: Ongevallenverzekering
+meta_image: assets/ongevallenverzekering-1.jpg
 ---
 
 ![Dagelijkse dingen in Zwitserland vanuit Nederlands perspectief](assets/ongevallenverzekering-1.jpg)
