@@ -1,9 +1,8 @@
 ---
----
 
-layout: post
-title: Pindakaas
-meta_image: https://bear-images.sfo2.cdn.digitaloceanspaces.com/roaldruiter-1680430858-0.png
+Layout: post
+Title: Pindakaas
+Meta_image: https://bear-images.sfo2.cdn.digitaloceanspaces.com/roaldruiter-1680430858-0.png
 
 ---
 

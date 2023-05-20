@@ -1,9 +1,8 @@
 ---
----
 
-layout: post
-title: Roofvogels
-meta_image: https://bear-images.sfo2.cdn.digitaloceanspaces.com/roaldruiter-1680430533-0.png
+Layout: post
+Title: Roofvogels
+Meta_image: https://bear-images.sfo2.cdn.digitaloceanspaces.com/roaldruiter-1680430533-0.png
 
 ---
 
