@@ -1,4 +1,6 @@
 ---
+
+---
 layout: post
 title: Ongevallenverzekering
 meta_image: assets/ongevallenverzekering-1.jpg
@@ -6,7 +8,7 @@ meta_image: assets/ongevallenverzekering-1.jpg
 
 ![Dagelijkse dingen in Zwitserland vanuit Nederlands perspectief](assets/ongevallenverzekering-1.jpg)
 
-Vriendin I. is een softbalfanaat. Helaas is de sport hier niet zo populair als in Nederland. Als ze geen trainingsbuddy kan vinden, val ik weleens in.
+Mijn vriendin I. is een softbalfanaat. Helaas is de sport hier niet zo populair als in Nederland. Als ze geen trainingsbuddy kan vinden, val ik weleens in.
 
 Zo gooiden we eens over met een softbal. Ik probeerde de bal te vangen met mijn handschoen, maar ik greep er net naast. De bal weerkaatste en kwam op mijn neus terecht. Anders dan de naam doet vermoeden, is deze bal allesbehalve zacht.
 
@@ -14,7 +16,7 @@ Het deed niet heel erg veel pijn, maar het bloedde als een gek. Later leerde ik 
 
 I. belde met de huisarts en aangezien het zondag was, adviseerde deze ons om naar het ziekenhuis te gaan voor onderzoek.
 
-Aangekomen bij het ziekenhuis meldde ik me bij de balie. Daar stelden ze wat vragen die je kunt verwachten, zoals mijn naam, geboortedatum en welke verzekering ik had. Daarna vroeg ze voor welk bedrijf ik werkte en waar deze gehuisvest was. Enigszins verbaasd beantwoordde ik die vragen.
+Aangekomen bij het ziekenhuis meldde ik me bij de balie. Daar stelden ze wat vragen die je kunt verwachten, zoals mijn naam, geboortedatum en welke verzekering ik had. Daarna vroegen ze voor welk bedrijf ik werkte en waar deze gehuisvest was. Enigszins verbaasd beantwoordde ik die vragen.
 
 Na een paar onderzoekjes bleek er gelukkig niets aan de hand en kon ik weer naar huis.
 

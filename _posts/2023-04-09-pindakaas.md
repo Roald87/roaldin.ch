@@ -1,4 +1,6 @@
 ---
+
+---
 layout: post
 title: Pindakaas
 meta_image: https://bear-images.sfo2.cdn.digitaloceanspaces.com/roaldruiter-1680430858-0.png
@@ -12,4 +14,4 @@ Amerikaanse stijl pindakaas was er wel, maar ik ben geen liefhebber van zoete pi
 
 Ik heb een tijdje zelf pindakaas gemaakt in een keukenmachine. Dit ging best goed, maar het was een hoop gedoe. Bovendien was het niet makkelijk om ongezouten pinda's te vinden.
 
-We namen daarom vaak een paar kilopotten 100% pindakaas mee uit Nederland. Gelukkig is dit tegenwoordig niet meer nodig. Dankzij de gezondheid en fitness trends, is er nu [een hele goede 100-procenter](https://www.coop.ch/en/food/inventories/spreads/other-sweet-spreads/nu3-peanut-butter/p/6548145) te koop bij 'onze' supermarkt.
+We namen daarom vaak een paar kilopotten 100% pindakaas mee uit Nederland. Gelukkig is dit tegenwoordig niet meer nodig. Dankzij de gezondheid- en fitness-trends, is er nu [een hele goede 100-procenter](https://www.coop.ch/en/food/inventories/spreads/other-sweet-spreads/nu3-peanut-butter/p/6548145) te koop bij 'onze' supermarkt.
