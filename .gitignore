@@ -11,3 +11,6 @@ obj/
 
 # PyCharm
 .idea/
+
+# python
+__pycache__
