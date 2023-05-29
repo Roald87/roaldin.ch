@@ -17,7 +17,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Sommige dingen vallen pas op als je er als buitenstaander naar kijkt.
   Met enige onregelmaat zal ik hier korte krabbels over schrijven.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://roaldin.ch" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: 🇨🇭
 permalink: /:title
 
