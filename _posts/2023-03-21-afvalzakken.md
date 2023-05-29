@@ -6,7 +6,7 @@ meta_image: assets/afvalzakken-1.jpg
 
 Voor restafval moeten we speciale afvalzakken kopen. Elke gemeente heeft zijn eigen design. Op de onderstaande foto zie je de zakken van de stad Zürich voor een overvolle ondergrondse container.
 
-![Verzameling van Zürisacken voor een overvolle ondergrondse container](assets/afvalzakken-1.jpg)
+{% picture afvalzakken-1.jpg --alt Verzameling van Zürisacken voor een overvolle ondergrondse container %}
 
 De afvalzakken zijn niet goedkoop: de 35L zakken op de foto kosten CHF 1.90 (€ 1.91) per stuk. De reden voor de hoge prijs is dat je zo betaalt voor de afvalverwerking. Daarnaast betaal je precies voor de hoeveelheid afval die je produceert.
 

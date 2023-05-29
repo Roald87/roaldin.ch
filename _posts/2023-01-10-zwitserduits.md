@@ -11,7 +11,7 @@ Zwitserduits is geen officiële taal, er is geen officiële spelling en iedere r
 
 Of deze kaart waarop wordt aangegeven hoe men een klokhuis noemt.
 
-![klokhuis in het zwitserduits](assets/zwitserduits-1.png)
+{% picture zwitserduits-1.png --alt klokhuis in het zwitserduits %}
 [Bron: Kleiner Sprachatlas der deutschen Schweiz](https://www.kleinersprachatlas.ch/karte-15-apfel)
 
 Wat ik opvallend vind is dat dialecten niet worden gezien als iets negatiefs. In Nederland is de norm om accentloos Nederlands te spreken in grote steden of in het hoger onderwijs. Hier spreekt iedereen zijn lokale dialect. Natuurlijk migreert het dialect van de buitenstaander langzaam naar datgene van de nieuwe omgeving.

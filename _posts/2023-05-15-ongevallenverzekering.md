@@ -4,7 +4,7 @@ title: Ongevallenverzekering
 meta_image: assets/ongevallenverzekering-1.jpg
 ---
 
-![Dagelijkse dingen in Zwitserland vanuit Nederlands perspectief](assets/ongevallenverzekering-1.jpg)
+{% picture ongevallenverzekering-1.jpg --alt Dagelijkse dingen in Zwitserland vanuit Nederlands perspectief %}
 
 Mijn vriendin I. is een softbalfanaat. Helaas is de sport hier niet zo populair als in Nederland. Als ze geen trainingsbuddy kan vinden, val ik weleens in.
 
