@@ -3,6 +3,8 @@ layout: post
 title: Dienstplicht
 ---
 
+{% picture dienstplicht-1.png %}
+
 Hier heeft elke man dienstplicht. Voor vrouwen is dat vooralsnog niet het geval, al is er wel [een initiatief](https://www.servicecitoyen.ch/de/text/) om dat te veranderen.
 
 In totaal kost de dienstplicht ongeveer een jaar tussen je 19e en 30e, afhankelijk van je rang.
