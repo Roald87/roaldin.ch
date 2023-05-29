@@ -10,4 +10,4 @@ De palen, of bauprofilen, geven aan hoe hoog en welk oppervlak het toekomstige o
 
 Hieronder een foto van een paar bauprofilen. Als je goed kijkt, zie je bovenop elke paal een klein hoekje. Deze hoeken kaderen de omlijning van het nieuwe gebouw af. Voor huizen met een puntdak is er een paal met een punt beschikbaar.
 
-![Bauprofilen op een parkeerplaats](assets/bauprofilen-1.jpg)
+{% picture bauprofilen-1.jpg --alt Bauprofilen op een parkeerplaats %}

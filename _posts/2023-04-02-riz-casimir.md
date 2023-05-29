@@ -8,7 +8,7 @@ Zwitserland heeft, net als Nederland, geen bijzondere keuken. Veel maaltijden be
 
 Een minder lekkere maaltijd is Riz Casimir, hieronder weinig flatteus op de foto. Ik heb het zelf nooit gehad en ik laat dat ook maar zo. De maaltijd staat ook nog eens op de [tiende plek van 's werelds "Minst smakelijke maaltijden"](https://www.tasteatlas.com/worst-rated-dishes-in-the-world).
 
-![Bord riz casimir onder slecht verlichte omstandigheden](assets/riz-casimir-1.jpg)
+{% picture riz-casimir-1.jpg --alt Bord riz casimir onder slecht verlichte omstandigheden %}
 
 Een korte vertaalde beschrijving van dit gerecht van [tasteatlas.com](https://www.tasteatlas.com/riz-casimir):
 

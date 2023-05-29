@@ -9,4 +9,4 @@ Vandaag zijn we de [Hirzli](https://wegwandern.ch/listing/hirzli-1641-m-morgenho
 
 In de zon en uit de wind was het aangenaam warm. In de schaduw was het echter fris. Af en toe vroor het zelfs. Er lag bijna geen sneeuw meer. Wat dat betreft had het meer weg van een wandeling in de vroege zomer, wanneer nog niet alle sneeuw is gesmolten.
 
-![uitzicht vanaf de hirzli](assets/winterwandeling-1.jpg)
+{% picture winterwandeling-1.jpg --alt uitzicht vanaf de hirzli %}
