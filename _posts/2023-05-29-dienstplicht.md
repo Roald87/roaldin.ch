@@ -1,6 +1,4 @@
 ---
-
----
 layout: post
 title: Dienstplicht
 image: generated/dienstplicht-1-300-53965161d.png
