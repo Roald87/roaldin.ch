@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dienstplicht
-image: assets/dienstplicht-1.png
+image: generated/dienstplicht-1-300-53965161d.png
 ---
 
 {% picture dienstplicht-1.png %}
