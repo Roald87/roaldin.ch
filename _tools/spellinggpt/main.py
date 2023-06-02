@@ -1,32 +1,30 @@
 import argparse
 import logging
 import os
-import textwrap
 
 import openai
 
 openai.api_key = os.environ.get("OPENAI_API_KEY")
 
-def spellcheck_prompt(text) -> str:
-    return textwrap.dedent(f"""\
-    Corrigeer de spelling, interpunctie en grammatica van de volgende tekst.
-    Reageer alleen met de gecorrigeerde tekst en behoud markdown opmaak.
-    Verander the variable namen van de yaml front matter niet.
+def system(content):
+    return {"role": "system", "content": content}
 
-    Tekst:
-    {text}
-    """)
+def user(content):
+    return {"role": "user", "content": content}
 
 def spellcheck(text: str) -> str:
-    response = openai.Completion.create(
-      model="text-davinci-003",
-      prompt=spellcheck_prompt(text),
-      max_tokens=2048,
-      temperature=0
+    completion = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo",
+        messages=[
+            system("Jij corrigeert de spelling, grammatica en interpunctie van teksten. Je behoud markdown opmaak en je verandert geen yaml front matter."),
+            user(text)
+        ],
+        temperature=0,
     )
-    logging.debug(f"API response: {response}")
 
-    return response["choices"][0]["text"].strip()
+    logging.debug(f"API response: {completion}")
+
+    return completion.choices[0]["message"]["content"].strip()
 
 def read_file(filename) -> str:
     with open(filename, 'r') as file:
