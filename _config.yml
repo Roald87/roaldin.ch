@@ -27,4 +27,5 @@ plugins:
   - jekyll-sitemap
 
 picture:
+  suppress_warnings: true
   source: "assets"
