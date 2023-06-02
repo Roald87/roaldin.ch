@@ -8,6 +8,8 @@ image: generated/dienstplicht-1-300-53965161d.png
 
 Hier heeft elke man dienstplicht. Voor vrouwen is dat vooralsnog niet het geval, al is er wel [een initiatief](https://www.servicecitoyen.ch/de/text/) om dat te veranderen.
 
+<!-- end_excerpt -->
+
 In totaal kost de dienstplicht ongeveer een jaar tussen je 19e en 30e, afhankelijk van je rang.
 
 Het proces begint met de rekrutering. Hier wordt gedurende drie dagen beoordeeld of je mentaal en fysiek fit genoeg bent om het leger in te gaan. Is dat het geval, dan ga je in principe het leger in.

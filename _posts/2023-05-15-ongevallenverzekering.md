@@ -8,6 +8,8 @@ meta_image: assets/ongevallenverzekering-1.jpg
 
 Mijn vriendin I. is een softbalfanaat. Helaas is de sport hier niet zo populair als in Nederland. Als ze geen trainingsbuddy kan vinden, val ik weleens in.
 
+<!-- end_excerpt -->
+
 Zo gooiden we eens over met een softbal. Ik probeerde de bal te vangen met mijn handschoen, maar ik greep er net naast. De bal weerkaatste en kwam op mijn neus terecht. Anders dan de naam doet vermoeden, is deze bal allesbehalve zacht.
 
 Het deed niet heel erg veel pijn, maar het bloedde als een gek. Later leerde ik dat dit normaal was, maar destijds was het wel reden tot lichte paniek.
