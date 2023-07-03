@@ -47,3 +47,9 @@ if [ "$FUTURE_DAYS" -eq 0 ]; then
 else
     echo "Everything is ready for a post about $CAPITALIZED_NAME on $FUTURE_DATE."
 fi
+
+# Check if the script is being called on its own
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+    # Execute the meta-image script
+    bash meta-image.sh $NAME
+fi
