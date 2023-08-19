@@ -41,6 +41,9 @@ touch $FILE_NAME
 # Add the content to the file
 echo -e "---\nlayout: post\ntitle: $CAPITALIZED_NAME\nimage: #generated/\n---" > $FILE_NAME
 
+# Open the file
+subl $FILE_NAME
+
 # Display a success message
 if [ "$FUTURE_DAYS" -eq 0 ]; then
     echo "Everything is ready for a post about $CAPITALIZED_NAME."
