@@ -9,7 +9,7 @@ Kastanjes zijn hier een populaire lekkernij. Zodra de herfst begint, zijn er op 
 {% picture kastanjes-1.jpg %}
 _Christine Zenino from Chicago, US, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons_
 
-De kastanjebomen vind je veel in het Italiaans-sprekende gedeelte van Zwitserland: Ticino. Wanneer de kastanjes in de herfst rijp zijn en uit de bomen vallen, liggen velden en paden er vol mee. Veel mensen trekken er dan op uit om de kastanjes te verzamelen en deze 's avonds te roosteren.
+Kastanjebomen vind je veel in het Italiaans-sprekende gedeelte van Zwitserland: Ticino. Wanneer de kastanjes in de herfst rijp zijn en uit de bomen vallen, liggen velden en paden er vol mee. Veel mensen trekken er dan op uit om de kastanjes te verzamelen en deze 's avonds te roosteren.
 
 Een leuke bezigheid in de herfst, al hebben wij het nooit gedaan.
 
