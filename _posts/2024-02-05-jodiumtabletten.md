@@ -4,9 +4,9 @@ title: Jodiumtabletten
 image: generated/jodiumtabletten-1-500-aa34f4bb5.webp
 ---
 
-Zwitserland heeft momenteel drie nucleaire energiecentrales. Deze centrales leverden [in 2022 38% van de electriciteit](https://ourworldindata.org/energy/country/switzerland). Alleen het aandeel waterkracht was met 49% nog hoger.
+Zwitserland heeft momenteel drie nucleaire energiecentrales. Deze centrales leverden [in 2022 38% van de elektriciteit](https://ourworldindata.org/energy/country/switzerland). Alleen het aandeel waterkracht was met 49% nog hoger.
 
-Twee van deze drie centrales staan hemelbreed 15 km van ons vandaan. Mocht er iets misgaan, dan zitten wij in de gele gevaren zone.
+Twee van deze drie centrales staan hemelsbreed 15 km van ons vandaan. Mocht er iets misgaan, dan zitten wij in de gele gevarenzone.
 
 {% picture jodiumtabletten-2.png %}
 _Kaartje van [bfe.admin.ch](https://www.bfe.admin.ch/bfe/en/home/supply/nuclear-energy/emergency-protection.html)_
