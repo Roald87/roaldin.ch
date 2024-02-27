@@ -12,17 +12,17 @@ Naast Kloten zijn er nog een paar grappige plaatsnamen:
 1. Bubikon
 1. Bitsch
 1. Vals
-3. Winkel
-4. Rapperswil
-5. Auw
-6. Küttingen
-7. Planken
-12. Scheuren
-13. Lachen
-14. Leuk
+1. Winkel
+1. Rapperswil
+1. Auw
+1. Küttingen
+1. Planken
+1. Scheuren
+1. Lachen
+1. Leuk
 
-Tot slot zijn er nog de Titlis (berg) en de Albert-Heim-Hütte (berghut). 
+Tot slot zijn er nog de Titlis (berg) en de Albert-Heim-Hütte (berghut).
 
-Leuk hé? Lachen. 
+Leuk hé? Lachen.
 
 :D
