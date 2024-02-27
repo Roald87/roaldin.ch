@@ -8,18 +8,18 @@ Het leuke van in een ander land wonen is dat een Duits woord in het Nederlands (
 
 Naast Kloten zijn er nog een paar grappige plaatsnamen:
 
-2. Wankdorf
-1. Bubikon
-1. Bitsch
-1. Vals
-1. Winkel
-1. Rapperswil
-1. Auw
-1. Küttingen
-1. Planken
-1. Scheuren
-1. Lachen
-1. Leuk
+1. Wankdorf
+2. Bubikon
+3. Bitsch
+4. Vals
+5. Winkel
+6. Rapperswil
+7. Auw
+8. Küttingen
+9. Planken
+10. Scheuren
+11. Lachen
+12. Leuk
 
 Tot slot zijn er nog de Titlis (berg) en de Albert-Heim-Hütte (berghut).
 
