@@ -4,6 +4,6 @@ title: Over mij
 permalink: /about-me/
 ---
 
-👋 Ik ben Roald en woon sinds vijf jaar in Zwitserland. In de loop der jaren zijn mij grote en kleine verschillen tussen Nederland en Zwitserland opgevallen. Het leek me wel leuk om deze gebruiks- en cultuurverschillen te verzamelen.
+👋 Ik ben Roald en woon sinds 2018 in Zwitserland. In de loop der jaren zijn mij grote en kleine verschillen tussen Nederland en Zwitserland opgevallen. Deze gebruiks- en cultuurverschillen te verzamel ik op dit blog.
 
-Ik heb ook nog een Engelstalige blog, [cookncode.com](https://cookncode.com), waar ik zelfbedachte recepten en kookhacks verzamel en schrijf over de TwinCAT programmeertaal die vooral in de industriële automatisering wordt gebruikt.
+Naast dit blog, heb ik ook nog een Engelstalige blog, [cookncode.com](https://cookncode.com), waar ik zelfbedachte recepten en kookhacks verzamel. Daarnaast schrijf ik over de TwinCAT programmeertaal die vooral in de industriële automatisering wordt gebruikt.
