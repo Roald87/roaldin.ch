@@ -12,6 +12,6 @@ Gelukkig bleken dit geen steekmuggen te zijn. Waarschijnlijk zijn het [Dansmugge
 
 Veel last van deze beestjes heb je niet. Soms vliegen ze naar binnen en vind je ze een paar dagen later dood op de grond.
 
-Buiten kun je er meer last van hebben. Er hangen soms gigantische zwermen in de lucht. Vooral ‘s avonds bij zonsondergang. Zo fietste ik afgelopen week naar huis en kon nauwelijks vooruitkijken zonder te worden getorpedeerd door tientallen muggen.
+Buiten kun je er meer last van hebben. Er hangen soms gigantische zwermen in de lucht, vooral ‘s avonds bij zonsondergang. Zo fietste ik afgelopen week naar huis en kon nauwelijks vooruitkijken zonder te worden getorpedeerd door tientallen muggen.
 
-Van een buurman hoorden we eens dat deze muggen met een cyclus van drie jaar in grotere getallen voorkomen. Dat klopt niet helemaal met onze observatie. De foto hierboven is van vijf jaar geleden en pas dit jaar komen ze weer in gi getallen voor.
+Van een buurman hoorden we eens dat deze muggen met een cyclus van drie jaar in grotere getallen voorkomen. Dat klopt niet helemaal met onze observatie. De foto hierboven is van vijf jaar geleden en pas dit jaar komen ze weer in grote getallen voor.
