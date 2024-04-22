@@ -12,3 +12,10 @@ repos:
         additional_dependencies:
           - prettier@2.7.1
           - "@shopify/prettier-plugin-liquid"
+  - repo: https://github.com/Roald87/pyLanguagetool
+    rev: 2cd8080
+    hooks:
+      - id: pylanguagetool
+        files: '.*\.(md|markdown)'
+        name: Languagetool spellcheck
+        entry: pylanguagetool --input-type markdown
