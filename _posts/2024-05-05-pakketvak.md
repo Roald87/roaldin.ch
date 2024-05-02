@@ -4,18 +4,18 @@ title: Pakketvak
 image: generated/pakketvak-1-500-77092460a.webp
 ---
 
-Het vertrouwen in de medemens is hier over het algemeen hoog. Je ziet dit naast de [hofladen](https://roaldin.ch/hofladen) ook aan het pakketvak onder de normale brievenbus. Hier kunnen de bezorgdiensten kleinere pakketjes achterlaten als je niet thuis bent.
+Een teamgenoot van I. vertelde dat toen ze eens thuiskwam het sterk rook naar haar eigen parfum. Daarnaast vond ze in de keuken twee glazen en het aanrecht lag vol met siroop.
+
+Even later beklaagde haar buurvrouw zich over de luide muziek die ze zoeven draaide. Het rare was dat ze toen helemaal niet thuis was.
+
+Ze deed aangifte bij de politie, ook al was er behalve haar stijltang niets gestolen. Het was vooral een flinke puinhoop.
+
+Later hoorde ze van de politie dat de daders, twee tienermeisjes die pakketjes jatten uit pakketvakken, waren gepakt. In deze pakketvakken kunnen de bezorgers pakketjes achterlaten als je niet thuis bent. Gelukkig is er uit ons vakje nog nooit iets gestolen.
 
 {% picture pakketvak-1.jpeg %}
 
-Gelukkig is er bij ons nooit iets gestolen, al komt het wel voor. Een teamgenoot van I. vertelde dat ze thuiskwam en het sterk rook naar haar eigen parfum. In de keuken vond ze twee glazen op het aanrecht met ranjasporen.
+Bij de teamgenoot van I. lag alleen geen pakketje, maar haar huissleutel. Deze had ze er neergelegd, omdat een vriend van haar later zou langskomen, terwijl ze weg was.
 
-Even later vroeg haar buurvrouw of ze een leuk feestje had gegeven. Vragend keek ze haar aan en zei dat ze helemaal niet thuis was. Blijkbaar kwam er luide muziek uit haar appartement.
-
-Heel vreemd allemaal. Ze deed aangifte bij de politie, ook al was er niets waardevols gestolen.
-
-Later hoorde ze van de politie dat de daders, twee tienermeisjes die pakketjes jatten uit brievenbussen, waren gepakt. Bij de teamgenoot van I. lag geen pakketje in het vakje, maar haar huissleutel. Deze had ze neergelegd omdat een vriend van haar later zou langskomen terwijl ze weg was.
-
-Na dit verhaal gehoord te hebben, laten we onze huissleutel niet meer in het pakketvak achter. Vroeger deden we dat wel als er iemand langskwam. Nu gebruiken we een klein kluisje voor de sleutel.
+Na dit verhaal gehoord te hebben laten we onze huissleutel niet meer in dit vak. Wij gebruiken nu een klein kluisje voor de sleutel.
 
 {% picture pakketvak-2.jpg %}
