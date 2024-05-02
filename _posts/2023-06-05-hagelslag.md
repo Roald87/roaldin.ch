@@ -10,4 +10,4 @@ De verpakking is iets anders dan de Nederlandse. Op de voorkant staat wel een bo
 
 {% picture hagelslag-1.jpg %}
 
-Ik heb mensen als bedankje ook wel eens een Nederlandse hagelslagverpakking gegeven. Zij doen het dan door de yoghurt of op ijs. De brood-optie moet ik ze altijd uitleggen.
+Ik heb mensen als bedankje ook wel eens een Nederlandse hagelslag verpakking gegeven. Zij doen het dan door de yoghurt of op ijs. De brood-optie moet ik ze altijd uitleggen.

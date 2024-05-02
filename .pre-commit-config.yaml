@@ -13,9 +13,10 @@ repos:
           - prettier@2.7.1
           - "@shopify/prettier-plugin-liquid"
   - repo: https://github.com/Roald87/pyLanguagetool
-    rev: 2cd8080
+    rev: 80b72ff
     hooks:
       - id: pylanguagetool
         files: '.*\.(md|markdown)'
+        exclude: "index.md|_posts/2023-03-18-switzerbrand"
         name: Languagetool spellcheck
-        entry: pylanguagetool --input-type markdown
+        entry: pylanguagetool --input-type markdown --personal-word-list .pylanguagetoolignore

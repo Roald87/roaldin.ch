@@ -23,6 +23,6 @@ Naast Kloten zijn er nog een paar grappige plaatsnamen:
 
 Tot slot zijn er nog de Titlis (berg) en de Albert-Heim-Hütte (berghut).
 
-Leuk hé? Lachen.
+Leuk hè? Lachen.
 
 :D

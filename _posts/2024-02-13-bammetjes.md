@@ -12,6 +12,6 @@ Hier is het eten van lunch achter het bureau een stuk zeldzamer. Tot voor kort h
 
 Wellicht hechten mensen hier meer waarde aan het lunchritueel? Of zou het alleen een praktische reden hebben?
 
-Men eet hier namelijk meestal een warme lunch. Deze wordt van huis meegenomen, of er wordt extern iets gekocht bij het bedrijfsrestaurant of een naburig lunchestablishment.
+Men eet hier namelijk meestal een warme lunch. Deze wordt van huis meegenomen, of er wordt extern iets gekocht bij het bedrijfsrestaurant of een naburig lunchetablissement.
 
 Zelf ben ik nooit van het bammetjes-achter-het-bureau-kamp geweest. Wel van de boterhammen. Maar deze laat ik graag staan als er ook een lekkere warme lunch gekocht kan worden.

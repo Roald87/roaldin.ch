@@ -14,8 +14,8 @@ Of deze kaart waarop wordt aangegeven hoe men een klokhuis noemt.
 {% picture zwitserduits-1.png --alt klokhuis in het zwitserduits %}
 [Bron: Kleiner Sprachatlas der deutschen Schweiz](https://www.kleinersprachatlas.ch/karte-15-apfel)
 
-Wat ik opvallend vind is dat dialecten niet worden gezien als iets negatiefs. In Nederland is de norm om accentloos Nederlands te spreken in grote steden of in het hoger onderwijs. Hier spreekt iedereen zijn lokale dialect. Natuurlijk migreert het dialect van de buitenstaander langzaam naar datgene van de nieuwe omgeving.
+Wat ik opvallend vind, is dat dialecten niet worden gezien als iets negatiefs. In Nederland is de norm om accentloos Nederlands te spreken in grote steden of in het hoger onderwijs. Hier spreekt iedereen zijn lokale dialect. Natuurlijk migreert het dialect van de buitenstaander langzaam naar datgene van de nieuwe omgeving.
 
-Naast de gesproken vorm, wordt het Zwitserduits ook gebruikt voor informele geschreven teksten. Bijvoorbeeld in Whatsapp-gesprekken of mails tussen bekenden. Toen ik voor het eerst zulke teksten las, begreep ik er weinig van. Maar vaak wordt de betekenis duidelijk als je de woorden uitspreekt. Het wordt vaak enigszins fonetisch opgeschreven.
+Naast de gesproken vorm, wordt het Zwitserduits ook gebruikt voor informele geschreven teksten. Bijvoorbeeld in WhatsApp-gesprekken of mails tussen bekenden. Toen ik voor het eerst zulke teksten las, begreep ik er weinig van. Maar vaak wordt de betekenis duidelijk als je de woorden uitspreekt. Het wordt vaak enigszins fonetisch opgeschreven.
 
 Vriendin I. is er in ieder geval groot fan van, omdat het allemaal niet zo nauw komt met al die naamvallen en spelling. Bovendien, als je iets verkeerd zegt, dan is er vast wel een regio waar ze het wel zo spellen of uitspreken.
