@@ -13,6 +13,6 @@ Ik vroeg mijn chef of hij mijn contract had ontbonden tijdens mijn vakantie. Gel
 
 Thuis had ik al een brief gekregen dat ik een nieuwe verblijfsvergunning zou krijgen. Ik ging weer naar huis, stuurde een foto van de brief naar de administratie en hoopte dat ze mijn accounts zouden deblokkeren, maar helaas was de brief niet genoeg. Ik had een officiële bevestiging nodig.
 
-De volgende ochtend belde ik Kanton Aargau en ze gaven me een officiële bevestiging. Aanvankelijk stelden ze voor om een bevestiging per post te sturen, maar het kon gelukkig ook per email. Ik stuurde het document door naar HR en mijn accounts werden vrijgegeven, hoewel het een dag zou kunnen duren, en dat deed het ook.
+De volgende ochtend belde ik Kanton Aargau en ze gaven me een officiële bevestiging. Aanvankelijk stelden ze voor om een bevestiging per post te sturen, maar het kon gelukkig ook per e-mail. Ik stuurde het document door naar HR en mijn accounts werden vrijgegeven, hoewel het een dag zou kunnen duren, en dat deed het ook.
 
-Gelukkig kon ik werk verrichten omdat ik kon inloggen op Windows. Echter deze werd na de lunch ook geblokkeerd en was het moeilijk om nog iets te doen. Ik besloot om een kortere dag te maken en te trainen voor de lokale [Limmatlauf](https://badenerlimmatlauf.ch/). 🏃‍
+Gelukkig kon ik werk verrichten omdat ik kon inloggen op Windows. Echter, deze werd na de lunch ook geblokkeerd en was het moeilijk om nog iets te doen. Ik besloot om een kortere dag te maken en te trainen voor de lokale [Limmatlauf](https://badenerlimmatlauf.ch/). 🏃‍

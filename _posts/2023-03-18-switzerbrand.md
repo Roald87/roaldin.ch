@@ -9,12 +9,12 @@ Het merk Zwitserland is sterk en populair. Veel bedrijven plaatsen de Zwitserse 
 Niet geheel verrassend is de Engelse, universeel verbindende, taal het populairst. Neem 10,000 willekeurige bedrijven en 183 hebben "Swiss" in hun naam verwerkt. Op twee staat de Duitse spelling, gevolgd door de Franse. Dit is ook niet geheel toevallig, aangezien het Duitse gedeelte meer inwoners heeft dan het Franstalige.
 
 ```
-Aantal bedrijvennamen die de landsnaam gebruiken
-per 10,000 (totaal aantal)
+Aantal bedrijfsnamen die de landsnaam gebruiken
+per 10.000 (totaal aantal)
 
-   Swiss █████████████████████████  183 (13178 totaal)
- Schweiz ██████████████▌  107 (7685 totaal)
-  Suisse ████████▎   61 (4382 totaal)
+   Swiss █████████████████████████  183 (13,178 totaal)
+ Schweiz ██████████████▌  107 (7,685 totaal)
+  Suisse ████████▎   61 (4,382 totaal)
 Helvetia ▍    3 (248 totaal)
 Svizzera ▍    3 (190 totaal)
 
@@ -29,8 +29,8 @@ Voor de Engelse spelling "Swiss" is kanton Zug de koploper. Dit komt waarschijnl
 
 |     |                        | per 10k | totaal |
 | --- | ---------------------- | ------- | ------ |
-| 1   | Zug                    | 322     | 1251   |
-| 2   | Ticino                 | 271     | 1128   |
+| 1   | Zug                    | 322     | 1,251  |
+| 2   | Ticino                 | 271     | 1,128  |
 | 3   | Appenzell Ausserrhoden | 260     | 151    |
 | ... | ...                    | ...     | ...    |
 | 24  | Grisons                | 128     | 236    |
@@ -45,7 +45,7 @@ Voor "Schweiz" staan er logischerwijs Duitstalige kantons bovenaan en Franstalig
 | --- | --------------------- | ------- | ------ |
 | 1   | Appenzell Innerrhoden | 209     | 42     |
 | 2   | Basel Stadt           | 196     | 351    |
-| 3   | Zurich                | 186     | 2332   |
+| 3   | Zurich                | 186     | 2,332  |
 | ... | ...                   | ...     | ...    |
 | 24  | Jura                  | 10      | 6      |
 | 25  | Vaud                  | 8       | 53     |
@@ -77,9 +77,9 @@ Ticino staat hier weinig verrassend op de eerste plaats. In de rest van het land
 | ... | ...              | ...     | ...    |
 | 24  | Basel Landschaft | 0       | 0      |
 | 25  | Zurich           | 0       | 5      |
-| 26  | St Gallen        | 0       | 1      |
+| 26  | St.-Gallen       | 0       | 1      |
 
-"Helvetia" is overal ongeveer even impopulair. Met uitzondering van Appenzell Innerrhoden heeft elk kanton een slechts een handvol bedrijven die de Latijnse spelling hanteren.
+"Helvetia" is overal ongeveer even impopulair. Met uitzondering van Appenzell Innerrhoden heeft elk kanton slechts een handvol bedrijven die de Latijnse spelling hanteren.
 
 ![helvetia](assets/switzerbrand-5.svg)
 
@@ -93,7 +93,7 @@ Ticino staat hier weinig verrassend op de eerste plaats. In de rest van het land
 | 25  | Fribourg              | 1       | 2      |
 | 26  | Appenzell Innerrhoden | 0       | 0      |
 
-De grote vraag is nu natuurlijk: hoe vergelijkt Zwitserland met andere Europese landen. Is Zwitserland nou uitzonderlijk trots op hun naam? Of worden de statistieken gedomineerd door internationale bedrijven die ook een vestiging in het land hebben? Wellicht probeer ik nog een keer deze cijfers te vinden.
+De grote vraag is nu natuurlijk: hoe vergelijkt Zwitserland met andere Europese landen. Is Zwitserland nu uitzonderlijk trots op hun naam? Of worden de statistieken gedomineerd door internationale bedrijven die ook een vestiging in het land hebben? Wellicht probeer ik nog een keer deze cijfers te vinden.
 
 ---
 

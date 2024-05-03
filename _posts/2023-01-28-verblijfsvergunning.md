@@ -7,7 +7,7 @@ Zwitserland hoort niet bij de EU. Daarom moet je een verblijfs- of werkvergunnin
 
 Eind vorig jaar waren voor mij en I. de vijf jaren voorbij. We vulden de papieren in en leverden ze in bij het gemeentehuis. I. leverde ze een paar weken eerder in dan ik, omdat zij eerder was begonnen met werken. Ik voegde ook de expliciete wens toe om de C-vergunning aan te vragen.
 
-Mijn vriendin haar baas feliciteerde haar een aantal weken na het inleveren van de papieren met haar C-vergunning. Haar werkgever was eerder op de hoogte gesteld dan zijzelf. Ik verwachtte dat het voor mij ook zo zou verlopen.
+De baas van mijn vriendin feliciteerde haar een aantal weken later met haar C-vergunning. Haar werkgever was eerder op de hoogte gesteld dan zijzelf. Ik verwachtte dat het voor mij ook zo zou verlopen.
 
 Nou, mooi niet dus. Mijn aanvraag werd pas in het nieuwe jaar aangenomen. En nu blijken er sinds begin dit jaar strengere regels te gelden voor EU-burgers. Nederlanders, samen met een aantal andere landen, waren eerst uitgezonderd van het voorleggen van een bewijs van hun taalvaardigheid.
 

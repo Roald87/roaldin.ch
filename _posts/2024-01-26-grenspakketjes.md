@@ -14,4 +14,4 @@ In Waldshut zijn een aantal bedrijfjes waar je je spullen heen kunt laten sturen
 
 Als je vervolgens het pakketje ophaalt en terug de grens overgaat, moet je wel door de douane. Zij controleren dan soms even of je niet over de importlimiet bent gegaan.
 
-We doen dit niet heel vaak. Ten eerste omdat Waldshut niet goed met het OV te bereiken is. I. heeft het wel eens gedaan en moest dan het laatste stuk lopend over de grens. Ten tweede omdat het een hoop gedoe is en meestal scheelt het niet heel veel geld. Bovendien zijn we ook geen grote shoppers bij die ene mega-internetwinkel die meestal niet in Zwitserland bezorgt.
+We doen dit niet heel vaak. Ten eerste omdat Waldshut niet goed met het ov te bereiken is. I. heeft het wel eens gedaan en moest dan het laatste stuk lopend over de grens. Ten tweede omdat het een hoop gedoe is en meestal scheelt het niet heel veel geld. Bovendien zijn we ook geen grote shoppers bij die ene mega-internetwinkel die meestal niet in Zwitserland bezorgt.

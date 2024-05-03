@@ -1,3 +1,6 @@
+ci:
+  skip: [pylanguagetool]
+
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.6.0
@@ -12,3 +15,11 @@ repos:
         additional_dependencies:
           - prettier@2.7.1
           - "@shopify/prettier-plugin-liquid"
+  - repo: https://github.com/Roald87/pyLanguagetool
+    rev: 80b72ff
+    hooks:
+      - id: pylanguagetool
+        files: '.*\.(md|markdown)'
+        exclude: "index.md|_posts/2023-03-18-switzerbrand"
+        name: Languagetool spellcheck
+        entry: pylanguagetool --input-type markdown --personal-word-list .pylanguagetoolignore

@@ -28,7 +28,7 @@ Oud-collega S. bijvoorbeeld is elektrotechnisch ingenieur in het dagelijks leven
 
 Na de basistraining moet je één maand per jaar naar de WK, of Wiederholungskurs. Dit doe je tot je je vereiste aantal dagen hebt verzameld.
 
-Het reizen naar de Wiederholungskurs of de basistraining doen de meeste mensen met het OV. Dit is namelijk gratis als ze hun uniform dragen. Je ziet vaak op vrijdagavond of zondagavond veel "recruits" in de trein die een weekend naar huis zijn geweest.
+Het reizen naar de Wiederholungskurs of de basistraining doen de meeste mensen met het ov. Dit is namelijk gratis als ze hun uniform dragen. Je ziet vaak op vrijdagavond of zondagavond veel "recruits" in de trein die een weekend naar huis zijn geweest.
 
 Als je in het leger zit, moet je ook eens in de zoveel tijd naar de schietbaan om je schietbrevet te vernieuwen. Het geweer hebben ze overigens altijd thuis, zonder munitie, dat wel. Ik geloof niet dat ik ooit heb gehoord dat mensen hier rare dingen mee hebben gedaan, zoals vaak in de VS gebeurt. Waarschijnlijk komt dit doordat alle eigenaars getraind en beoordeeld zijn.
 
