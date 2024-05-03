@@ -1,11 +1,9 @@
 ---
 layout: post
-title: i chume für de wii
+title: Ik chume für de wii
 ---
 
 Dit verhaal speelde zich een aantal jaren geleden af. Destijds verstond ik nauwelijks [Zwitserduits](https://roaldin.ch/zwitserduits/). Tegenwoordig versta ik het meestal, vooral als ik de context weet.
-
----
 
 Ik moest een paar jaren geleden in het gemeentehuis zijn. Aangezien deze alleen op werkdagen geopend is, ging ik er voor mijn werk langs. Om 8:00 stond ik in de hal en had een nummertje getrokken. De hal was verlaten, op één vrouw na.
 
