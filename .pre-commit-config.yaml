@@ -16,7 +16,7 @@ repos:
           - prettier@2.7.1
           - "@shopify/prettier-plugin-liquid"
   - repo: https://github.com/Roald87/pyLanguagetool
-    rev: 80b72ff
+    rev: 80b72ffda4ebaf91c9e7c97daecc7555050b4758
     hooks:
       - id: pylanguagetool
         files: '.*\.(md|markdown)'
