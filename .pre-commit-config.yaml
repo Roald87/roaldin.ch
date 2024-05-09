@@ -23,3 +23,10 @@ repos:
         exclude: "index.md|_posts/2023-03-18-switzerbrand"
         name: Languagetool spellcheck
         entry: pylanguagetool --input-type markdown --personal-word-list .pylanguagetoolignore
+  - repo: local
+    hooks:
+      - id: sort-pylanguagetoolignore
+        name: Sort .pylanguagetoolignore
+        entry: sort .pylanguagetoolignore -o
+        language: system
+        files: ^\.pylanguagetoolignore$
