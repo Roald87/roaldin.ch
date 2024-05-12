@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: ""
 ---
 
 Sommige dingen vallen pas op als je er als buitenstaander naar kijkt. Met enige onregelmaat zal ik hier korte krabbels over schrijven.
