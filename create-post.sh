@@ -15,9 +15,6 @@ if [ -z "$FUTURE_DAYS" ]; then
     FUTURE_DAYS=0
 fi
 
-# Capitalize the post name
-CAPITALIZED_NAME="${NAME^}"
-
 # Checkout the main branch
 git checkout main
 
@@ -37,6 +34,12 @@ else
     FILE_NAME="_posts/${FUTURE_DATE}-${NAME}.md"
 fi
 touch $FILE_NAME
+
+# Replace hyphens with spaces
+NAME_WITH_SPACES="${NAME//-/ }"
+
+# Capitalize the post name
+CAPITALIZED_NAME="${NAME_WITH_SPACES^}"
 
 # Add the content to the file
 echo -e "---\nlayout: post\ntitle: $CAPITALIZED_NAME\nimage: #generated/\n---" > $FILE_NAME
