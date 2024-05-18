@@ -4,7 +4,7 @@ title: Max Mustermann
 image: generated/max-mustermann-1-650-1bce5c5b0.webp
 ---
 
-Max Mustermann[^1] is een bekend figuur in Duitstalige landen. Hij verschijnt vaak in reclames voor bijvoorbeeld pasjes of wordt al test persoon in databases gebruikt. Max bestaat echter niet echt. Het is een plaatsvervangende naam om te laten zien hoe het pasje eruit komt te zien.
+Max Mustermann[^1] is een bekend figuur in Duitstalige landen. Hij verschijnt vaak in reclames voor bijvoorbeeld pasjes of wordt als testpersoon in databases gebruikt. Max bestaat echter niet echt. Het is een plaatsvervangende naam om te laten zien hoe het pasje eruit komt te zien.
 
 {% picture max-mustermann-1.png %}
 
