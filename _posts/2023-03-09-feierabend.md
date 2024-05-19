@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Feierabend
-image: https://bear-images.sfo2.cdn.digitaloceanspaces.com/roaldruiter-1678347564-0.png
+image: generated/feierabend-1-500-19dd2a610.webp
 ---
+
+{% picture feierabend-1.png %}
 
 Een van mijn favoriete Duitse woorden is Feierabend. Letterlijk vertaald betekent het vier de avond. Het wordt vaak gebruikt aan het einde van de werkdag, zodra collega's zien dat je je spullen inpakt.
 
