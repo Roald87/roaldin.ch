@@ -21,6 +21,8 @@ favicon: 🇨🇭
 permalink: /:title
 excerpt_separator: end_excerpt
 meta_image: "/assets/logo.webp"
+lang: nl
+locale: nl_NL
 
 # Build settings
 plugins:
