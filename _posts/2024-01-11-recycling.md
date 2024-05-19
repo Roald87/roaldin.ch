@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recycling
-image: generated/recycling-1-500-79afb377c.webp
+meta_image: generated/recycling-1-500-79afb377c.webp
 ---
 
 Recyclen is hier een serieuze zaak en ik heb daar eerder [ook](https://roaldin.ch/oudpapier) [al](https://roaldin.ch/afvalzakken) [over](https://roaldin.ch/oud-papier-2) geschreven. Serieus werk kan alleen worden gedaan met goed gereedschap. Daarom hebben wij drie recyclingtassen aangeschaft.

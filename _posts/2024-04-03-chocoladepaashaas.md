@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Chocoladepaashaas
-image: #generated/
 ---
 
 Het paasweekend is weer voorbij en dat betekent voor veel Zwitsers dat ze van hun chocoladepaashazen af moeten. Toen ik voor de eerste keer hoorde over dit fenomeen was ik verbaasd. Die hazen zijn van chocolade, waarom eet je die niet op?

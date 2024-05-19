@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Schwingen
-image: generated/schwingen-1-500-a171e6863.webp
+meta_image: generated/schwingen-1-500-a171e6863.webp
 ---
 
 Voetbal en tennis zijn, net als in Nederland, populaire sporten in Zwitserland. Er zijn echter ook populaire sporten die helemaal niet in Nederland beoefend worden.

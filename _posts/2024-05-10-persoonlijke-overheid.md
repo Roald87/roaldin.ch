@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Persoonlijke overheid
-image:
 ---
 
 Ik heb het idee dat je hier persoonlijker contact hebt met de overheid. Als ik bijvoorbeeld documenten aanvraag of een e-mail stuur naar een overheidsinstantie, krijg ik vaak een persoonlijk ondertekend antwoord. In Nederland waren overheidsbrieven meestal automatisch gegenereerd en daarom niet ondertekend.

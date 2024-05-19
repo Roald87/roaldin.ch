@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fotohokjes
-image: generated/fotohokjes-1-500-e0998617f.webp
+meta_image: generated/fotohokjes-1-500-e0998617f.webp
 ---
 
 {% picture fotohokjes-1.png %}

@@ -31,6 +31,6 @@ while read -r line; do
         IMAGE_FILENAME="${BASH_REMATCH[0]}"
 
         # Replace the image line in the file
-        sed -i "s/image: #generated\//image: generated\/$IMAGE_FILENAME/" $FILENAME
+        sed -i "s/meta_image: #generated\//meta_image: generated\/$IMAGE_FILENAME/" $FILENAME
     fi
 done < <(bundle exec jekyll serve --future)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nachtruhe
-image: generated/nachtruhe-1-500-70cccc706.webp
+meta_image: generated/nachtruhe-1-500-70cccc706.webp
 ---
 
 {%picture nachtruhe-1.png %}

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Duivelse fotohokjes
-image:
 ---
 
 Laatst was het zover: voor het eerst in de acht jaren dat I. hier woont, moest ze een [fotohokje](https://roaldin.ch/fotohokjes) gebruiken. Het werd een frustrerende ervaring. "Een apparaat van de duivel," aldus I.
@@ -12,7 +11,7 @@ Ze nam de roltrap weer omhoog naar de dichtstbijzijnde winkel om de benodigde CH
 
 Terug bij het hokje probeerde ze eerst het briefje van CHF 10 in de automaat te stoppen, maar deze werd geweigerd. Na alle mogelijke oriëntaties en gladstrijken meermaals te hebben geprobeerd, bleef het apparaat weigeren.
 
-Met de mogelijkheid van rare softwarebugs in het achterhoofd, probeerde ze het daarna eerst met een 2 Franc munt, hopende dat de machine daarna beter gezind was en het biljet zou accepteren. Dat bleek ijdele hoop. Het briefje werd alsnog geweigerd.
+Met de mogelijkheid van rare software bugs in het achterhoofd, probeerde ze het daarna eerst met een 2 Franc munt, hopende dat de machine daarna beter gezind was en het biljet zou accepteren. Dat bleek ijdele hoop. Het briefje werd alsnog geweigerd.
 
 I. gaf het op en besloot de online pasfotoservice te proberen.
 
