@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bammetjes achter het bureau
-meta_image: generated/bammetjes-1-500-07ab4c555.webp
+image: generated/bammetjes-1-500-07ab4c555.webp
 ---
 
 {% picture bammetjes-1.png %}

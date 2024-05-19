@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Afvalzakken
-meta_image: assets/afvalzakken-1.jpg
+image: assets/afvalzakken-1.jpg
 ---
 
 Voor restafval moeten we speciale afvalzakken kopen. Elke gemeente heeft zijn eigen design. Op de onderstaande foto zie je de zakken van de stad Zürich voor een overvolle ondergrondse container.

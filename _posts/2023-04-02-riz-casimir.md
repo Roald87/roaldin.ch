@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Riz Casimir
-meta_image: assets/riz-casimir-1.jpg
+image: assets/riz-casimir-1.jpg
 ---
 
 Zwitserland heeft, net als Nederland, geen bijzondere keuken. Veel maaltijden bestaan uit een combinatie van kaas met aardappels (raclette), brood (fondue) of pasta ([Älpermagronen](https://de.m.wikipedia.org/wiki/Älplermagronen)). Ik ben geen grote kaasliefhebber, maar deze maaltijden vind ik op zijn tijd wel lekker.

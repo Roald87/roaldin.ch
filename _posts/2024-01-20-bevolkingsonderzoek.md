@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bevolkingsonderzoek
-meta_image: generated/bevolkingsonderzoek-1-500-24375943f.webp
+image: generated/bevolkingsonderzoek-1-500-24375943f.webp
 ---
 
 {% picture bevolkingsonderzoek-1.png %}

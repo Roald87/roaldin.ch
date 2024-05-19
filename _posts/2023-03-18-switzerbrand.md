@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Switzerbrand
-meta_image: https://bear-images.sfo2.cdn.digitaloceanspaces.com/roaldruiter-1678628096-4.png
+image: https://bear-images.sfo2.cdn.digitaloceanspaces.com/roaldruiter-1678628096-4.png
 ---
 
 Het merk Zwitserland is sterk en populair. Veel bedrijven plaatsen de Zwitserse vlag op hun producten, verpakkingen of verwerken het in hun logo. Soms is de landsnaam onderdeel van hun naam. Hieronder volgt een overzicht van hoe vaak dat gebeurt in de drie officiële talen, plus het Engels en Latijn.

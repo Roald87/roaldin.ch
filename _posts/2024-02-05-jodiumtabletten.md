@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jodiumtabletten
-meta_image: generated/jodiumtabletten-1-500-aa34f4bb5.webp
+image: generated/jodiumtabletten-1-500-aa34f4bb5.webp
 ---
 
 Zwitserland heeft momenteel drie nucleaire energiecentrales. Deze centrales leverden [in 2022 38% van de elektriciteit](https://ourworldindata.org/energy/country/switzerland). Alleen het aandeel waterkracht was met 49% nog hoger.

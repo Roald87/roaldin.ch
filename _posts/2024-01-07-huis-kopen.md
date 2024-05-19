@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Huis kopen
-meta_image: generated/huis-kopen-1-500-774f9c22b.webp
+image: generated/huis-kopen-1-500-774f9c22b.webp
 ---
 
 {% picture huis-kopen-1.png %}
