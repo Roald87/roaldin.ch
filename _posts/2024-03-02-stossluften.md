@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stossluften
-meta_image: generated/stossluften-1-500-c8799c8e0.webp
+image: generated/stossluften-1-500-c8799c8e0.webp
 ---
 
 {% picture stossluften-1.png %}

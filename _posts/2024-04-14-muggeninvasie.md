@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Muggeninvasie
-meta_image: generated/muggeninvasie-1-500-b5e4ead6a.webp
+image: generated/muggeninvasie-1-500-b5e4ead6a.webp
 ---
 
 Op de foto hieronder zie je onze eerste kennismaking met ons huidige appartement. I., lichtelijk panisch bij het zien van elke mug, kreeg bijna een hartverzakking. Hoe kunnen we hier ooit een raam of deur openen, zonder dat we worden lekgeprikt? Laat staan dat we kunnen genieten van ons balkon.

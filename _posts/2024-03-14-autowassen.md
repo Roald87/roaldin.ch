@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Auto wassen
-meta_image: generated/autowassen-1-500-2175b4e78.webp
+image: generated/autowassen-1-500-2175b4e78.webp
 ---
 
 {% picture autowassen-1.png %}

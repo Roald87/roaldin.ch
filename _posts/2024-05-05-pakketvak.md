@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pakketvak
-meta_image: generated/pakketvak-1-500-77092460a.webp
+image: generated/pakketvak-1-500-77092460a.webp
 ---
 
 Een teamgenoot van I. vertelde dat toen ze eens thuiskwam het sterk rook naar haar eigen parfum. Daarnaast vond ze in de keuken twee glazen en het aanrecht lag vol met siroop.

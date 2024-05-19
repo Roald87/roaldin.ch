@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Roofvogels
-meta_image: https://bear-images.sfo2.cdn.digitaloceanspaces.com/roaldruiter-1680430533-0.png
+image: generated/roofvogels-1-500-21a69aa54.webp
 ---
+
+{% picture roofvogels-1.png %}
 
 Het is opvallend hoeveel roofvogels je hier ziet. Niet alleen in landelijk gebied, maar ook boven woonwijken.
 

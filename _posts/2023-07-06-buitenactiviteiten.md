@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buitenactiviteiten
-meta_image: generated/buitenactiviteiten-1-500-bb80f1a2e.webp
+image: generated/buitenactiviteiten-1-500-bb80f1a2e.webp
 ---
 
 {% picture buitenactiviteiten-1.jpg %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Riz Casimir 2
-meta_image: generated/riz-casimir-2-650-498f66e61.webp
+image: generated/riz-casimir-2-650-498f66e61.webp
 ---
 
 Vandaag had ik het genoegen voor het eerst Riz-Casimir te proberen. De vaste lezer herinnert zich misschien nog dat ik voorheen niet positief was over deze maaltijd. Maar vandaag kwam ik er niet onderuit.

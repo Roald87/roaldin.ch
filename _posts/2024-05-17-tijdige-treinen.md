@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tijdige treinen
-meta_image: generated/tijdige-treinen-1-650-85a605f21.webp
+image: generated/tijdige-treinen-1-650-85a605f21.webp
 ---
 
 Vandaag maakte ik iets unieks mee. Toen ik op het station kwam, zag ik dat bijna alle treinen dikke vertragingen hadden.

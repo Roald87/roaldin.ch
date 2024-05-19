@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Pindakaas
-meta_image: https://bear-images.sfo2.cdn.digitaloceanspaces.com/roaldruiter-1680430858-0.png
+image: generated/pindakaas-1-500-1f17ee470.webp
 ---
+
+{% picture pindakaas-1.png %}
 
 Goed [brood](https://roaldin.ch/brood) vinden was geen probleem. De zoektocht naar goede pindakaas duurde echter langer.
 
