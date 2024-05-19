@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kastanjes
-image: generated/kastanjes-1-500-6a88aa3d6.webp
+meta_image: generated/kastanjes-1-500-6a88aa3d6.webp
 ---
 
 Kastanjes zijn hier een populaire lekkernij. Zodra de herfst begint, zijn er op straat kraampjes waar je _heisse Maroni_ (warme kastanjes) kunt kopen. Daarnaast worden kastanjes ook vaak geserveerd bij wildmaaltijden of er wordt _Vermicelles_ van gemaakt. _Vermicelles_ is een spaghettivormige puree gemaakt van kastanjes, met suiker en room.

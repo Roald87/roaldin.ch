@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grenspakketjes
-image: generated/grenspakketjes-1-500-09e66cca0.webp
+meta_image: generated/grenspakketjes-1-500-09e66cca0.webp
 ---
 
 {% picture grenspakketjes-1.png %}

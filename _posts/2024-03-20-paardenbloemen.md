@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paardenbloemen
-image: generated/paardenbloemen-1-500-7b33caad8.webp
+meta_image: generated/paardenbloemen-1-500-7b33caad8.webp
 ---
 
 Eens in de zoveel tijd valt de onderstaande folder, ondanks de ja-nee-sticker, in onze brievenbus. Deze gigantische paardenbloemen zagen we eerst regelmatig bij mensen in de tuin. Tegenwoordig zien we ze niet meer zo vaak, of zou het gewenning zijn?

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Internetabonnement
-image: #generated/
 ---
 
 Internet is niet duur in Zwitserland. Voor ons abonnement van 200 Mbit/s betalen we 40 CHF per maand. Omgerekend naar euro's en gezien het feit dat de salarissen hier hoger liggen, zou het in Nederland zo'n € 20 per maand kosten.

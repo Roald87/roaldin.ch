@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bircher-muesli
-image: generated/bircher-muesli-1-500-5e012dcb5.webp
+meta_image: generated/bircher-muesli-1-500-5e012dcb5.webp
 ---
 
 {% picture bircher-muesli-1.png --alt Foto gegenereerd met dall-e %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wurst-Käse-Salat
-image: generated/wurst-kaese-salat-1-500-1a191b93e.webp
+meta_image: generated/wurst-kaese-salat-1-500-1a191b93e.webp
 ---
 
 Naast [Riz Casimir](https://roaldin.ch/riz-casimir) heeft Zwitserland nog meer minder smakelijke recepten. Vandaag hebben we de Wurst-Käse-Salat.

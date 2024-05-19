@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Recycling op het werk
-image: generated/recycling-werk-1-500-b09fc0bbe.webp
+meta_image: generated/recycling-werk-1-500-b09fc0bbe.webp
 ---
 
-Deze foto nam ik op de gang van mijn werk. Links zie je een recyclingbak voor blik en rechts voor PET-flessen. Het recyclen wordt naast thuis[^1] [^2] [^3] [^4] ook op het werk serieus genomen.
+Deze foto nam ik op de gang van mijn werk. Links zie je een recyclingbak voor blik en rechts voor PET-flessen. Het recyclen wordt naast thuis [^1] [^2] [^3] [^4] ook op het werk serieus genomen.
 
 {% picture recycling-werk-1.jpg %}
 
