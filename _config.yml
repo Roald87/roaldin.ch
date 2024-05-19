@@ -20,6 +20,7 @@ url: "https://roaldin.ch" # the base hostname & protocol for your site, e.g. htt
 favicon: 🇨🇭
 permalink: /:title
 excerpt_separator: end_excerpt
+meta_image: "/assets/logo.webp"
 
 # Build settings
 plugins:
