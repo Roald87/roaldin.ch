@@ -65,17 +65,19 @@ def process_file(filename: str) -> None:
         content = file.read()
 
     # Find all {% picture <filename> %} tags
-    pattern = r'{% picture ([^ ]+) (?:--alt [^%]+)?%}'
+    pattern = r'{% picture ([^ ]+)[^%]* %}'
     matches = re.findall(pattern, content)
+
+    logging.debug(f"Matches: {matches}")
 
     for image_filename in matches:
         image_path = os.path.join('assets', image_filename)
         if os.path.isfile(image_path):
-            alt_text = generate_alt_text(image_path)
+            alt_text = generate_alt_text(image_path).replace("\"", "")
 
             # Replace or insert alt text in the tag
             content = re.sub(
-                pattern,
+                rf'{{% picture {image_filename}[^%]? %}}',
                 rf'{{% picture {image_filename} --alt {alt_text} %}}',
                 content
             )
@@ -87,7 +89,8 @@ def process_file(filename: str) -> None:
     with open(filename, 'w') as file:
         file.write(content)
 
-    logging.info(f"Updated alt text in {filename}.")
+    if matches:
+        logging.info(f"Updated alt text in {filename}.")
 
 def process_files(filenames: List[str]) -> None:
     for filename in filenames:
@@ -97,7 +100,7 @@ def process_files(filenames: List[str]) -> None:
         process_file(filename)
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description='Update alt text in image tags.')
+    parser = argparse.ArgumentParser(description='Update alt text in image tags. Note: if there is already an alt text present, it will be replaced.')
     parser.add_argument('filenames', type=str, nargs='+', help='The filename(s) to process')
     parser.add_argument('-v', '--verbose', action='count', default=0, help='Increase verbosity level')
     args = parser.parse_args()
