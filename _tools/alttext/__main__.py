@@ -21,12 +21,6 @@ def resize_image(image_path: str, max_size: int = 300) -> str:
         img.save(resized_path)
     return resized_path
 
-def system(content):
-    return {"role": "system", "content": content}
-
-def user(content):
-    return {"role": "user", "content": content}
-
 def generate_alt_text(image_path: str) -> str:
     resized_image_path = resize_image(image_path)
     with open(resized_image_path, "rb") as image_file:
@@ -34,11 +28,32 @@ def generate_alt_text(image_path: str) -> str:
 
     completion = client.chat.completions.create(model="gpt-4o",
     messages=[
-        system("You create alt texts from images for web usability purpouses for people with reduced eye sight. You describe whats in the image."),
-        user(f"Generate an alt text for the following image:\n\n![image](data:image/jpeg;base64,{encoded_string})")
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": """\
+                    Je bent een expert in webtoegankelijkheid en bruikbaarheid. Je taak is om effectieve alt-tekst te genereren voor afbeeldingen die op websites worden gebruikt. "
+                    Effectieve alt-tekst moet beknopt, beschrijvend en dezelfde informatie bieden als de afbeelding zou doen als deze zichtbaar was.
+                    Het moet geen informatie herhalen die al beschikbaar is in de omringende tekst of bijschriften. Houd rekening met de volgende richtlijnen:
+                    1. Wees specifiek en beknopt. Beschrijf de inhoud en het doel van de afbeelding.
+                    2. Neem alle tekst op die onderdeel is van de afbeelding.
+                    3. Vermijd het gebruik van zinnen zoals 'afbeelding van' of 'foto van'.
+                    4. Als de afbeelding puur decoratief is en geen belangrijke informatie overbrengt, geef dit dan aan zodat het kan worden genegeerd door schermlezers.
+                    Genereer een alt-tekst in het Nederlands voor de volgende afbeelding"""
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": f"data:image/jpeg;base64,{encoded_string}"
+                    }
+                }
+            ]
+        }
     ],
     temperature=0,
-    max_tokens=50)
+    max_tokens=100)
 
     logging.debug(f"API response: {completion}")
 
