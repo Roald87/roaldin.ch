@@ -38,7 +38,7 @@ def generate_alt_text(image_path: str) -> str:
         user(f"Generate an alt text for the following image:\n\n![image](data:image/jpeg;base64,{encoded_string})")
     ],
     temperature=0,
-    max_tokens=100)
+    max_tokens=50)
 
     logging.debug(f"API response: {completion}")
 
