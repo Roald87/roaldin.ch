@@ -75,8 +75,8 @@ def process_file(filename: str) -> None:
 
             # Replace or insert alt text in the tag
             content = re.sub(
-                rf'({{% picture {re.escape(image_filename)})(?: --alt [^%]+)?(%}})',
-                rf'\1 --alt "{alt_text}"\2',
+                pattern,
+                rf'{{% picture {image_filename} --alt {alt_text} %}}',
                 content
             )
             logging.info(f"Processed image: {image_filename}, generated alt text: {alt_text}")
