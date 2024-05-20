@@ -4,7 +4,7 @@ title: Roofvogels
 image: generated/roofvogels-1-500-21a69aa54.webp
 ---
 
-{% picture roofvogels-1.png %}
+{% picture roofvogels-1.png --alt Zwart-wit tekening van vogels die boven een landschap met velden vliegen. %}
 
 Het is opvallend hoeveel roofvogels je hier ziet. Niet alleen in landelijk gebied, maar ook boven woonwijken.
 

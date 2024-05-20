@@ -4,7 +4,7 @@ title: Auto wassen
 image: generated/autowassen-1-500-2175b4e78.webp
 ---
 
-{% picture autowassen-1.png %}
+{% picture autowassen-1.png --alt Man staat naast een zwaar beschadigde auto met een ingedeukte voorkant. %}
 
 Een populaire bezigheid van Nederlandse mannen is het wassen van hun auto in het weekend. Hier zie ik nooit mensen hun auto bij huis wassen. Wel zijn er opvallend veel wasstraten. Niet alleen zo'n automatische waar je auto doorheen rolt, maar ook een station waar je je auto zelf kunt poetsen en stofzuigen.
 

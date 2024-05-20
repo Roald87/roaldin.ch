@@ -4,7 +4,7 @@ title: Feierabend
 image: generated/feierabend-1-500-19dd2a610.webp
 ---
 
-{% picture feierabend-1.png %}
+{% picture feierabend-1.png --alt Illustratie van een persoon die met uitgestrekte armen en benen op de grond ligt, met een geschrokken gezichtsuitdrukking. %}
 
 Een van mijn favoriete Duitse woorden is Feierabend. Letterlijk vertaald betekent het vier de avond. Het wordt vaak gebruikt aan het einde van de werkdag, zodra collega's zien dat je je spullen inpakt.
 

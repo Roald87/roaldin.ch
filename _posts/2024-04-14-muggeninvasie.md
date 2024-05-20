@@ -6,7 +6,7 @@ image: generated/muggeninvasie-1-500-b5e4ead6a.webp
 
 Op de foto hieronder zie je onze eerste kennismaking met ons huidige appartement. I., lichtelijk panisch bij het zien van elke mug, kreeg bijna een hartverzakking. Hoe kunnen we hier ooit een raam of deur openen, zonder dat we worden lekgeprikt? Laat staan dat we kunnen genieten van ons balkon.
 
-{% picture muggeninvasie-1.jpg %}
+{% picture muggeninvasie-1.jpg --alt Een raam van binnen terwijl het buiten donker is. Het hele raam is bedenkt met honderden muggen aan de buitenkant. %}
 
 Gelukkig bleken dit geen steekmuggen te zijn. Waarschijnlijk zijn het [Dansmuggen](https://nl.m.wikipedia.org/wiki/Dansmuggen). Deze beestjes komen massaal tevoorschijn zodra het warmer wordt in het voorjaar.
 

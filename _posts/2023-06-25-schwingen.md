@@ -10,7 +10,7 @@ Een daarvan is "[Schwingen](https://de.wikipedia.org/wiki/Schwingen)", niet te v
 
 Schwingen is een sport waarbij twee uit de kluiten gewassen mannen elkaar naar de grond proberen te krijgen in een ring van zaagmeel. Men wint zodra de tegenstander met beide schouders in het zaagsel ligt. De sport lijkt op een mix van worstelen en judo.
 
-{% picture schwingen-1.jpeg %}
+{% picture schwingen-1.jpeg --alt Twee mannen zijn verwikkeld in een worstelwedstrijd op een zandoppervlak, waarbij de ene man de andere man over zijn schouder werpt. Toeschouwers zitten op de achtergrond. %}
 
 Bij schwingen zijn er echter geen gewichtsklassen. De deelnemers zijn daarom vaak grote, brede kerels.
 

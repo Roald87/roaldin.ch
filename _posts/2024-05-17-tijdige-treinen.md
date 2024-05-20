@@ -6,7 +6,7 @@ image: generated/tijdige-treinen-1-650-85a605f21.webp
 
 Vandaag maakte ik iets unieks mee. Toen ik op het station kwam, zag ik dat bijna alle treinen dikke vertragingen hadden.
 
-{% picture tijdige-treinen-1.jpeg %}
+{% picture tijdige-treinen-1.jpeg --alt Elektronisch bord met treinvertrektijden op Zürich HB station, met vertragingen en annuleringen aangegeven in rood. Treinen naar verschillende bestemmingen zoals Altstätten, Winterthur, en Zürich HB, met vertrektijden en perronnummers. %}
 
 Een kleine vertraging komt wel eens voor, zeker in de spits, maar dit beperkt zich meestal tot enkele minuten. Zelfs deze kleine vertragingen worden netjes aangegeven op de borden, niet zoals in Nederland waar de vertragingen alleen per vijf minuten worden getoond.
 

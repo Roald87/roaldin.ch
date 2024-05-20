@@ -4,7 +4,7 @@ title: Buitenactiviteiten
 image: generated/buitenactiviteiten-1-500-bb80f1a2e.webp
 ---
 
-{% picture buitenactiviteiten-1.jpg %}
+{% picture buitenactiviteiten-1.jpg --alt Wandelaars met rugzakken lopen over een besneeuwd berglandschap met bergen op de achtergrond. %}
 
 Met goed weer is er in het Zwitserse berglandschap genoeg vertier. Zo deden Ies en ik recentelijk voor het eerst een gletsjertour met een gids.
 

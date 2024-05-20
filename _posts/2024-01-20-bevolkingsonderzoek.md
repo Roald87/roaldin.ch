@@ -4,7 +4,7 @@ title: Bevolkingsonderzoek
 image: generated/bevolkingsonderzoek-1-500-24375943f.webp
 ---
 
-{% picture bevolkingsonderzoek-1.png %}
+{% picture bevolkingsonderzoek-1.png --alt Verschillende cirkeldiagrammen en grafieken met zwarte en witte segmenten, sommige met lijnen en stippen, die data en trends weergeven. %}
 
 Afgelopen week kreeg ik een brief van de regering om mee te doen aan een volksonderzoek. Hoewel het verzoek vriendelijk was, werd er ook vermeld dat dit onderzoek niet vrijwillig was. Nee, nee. Volgens artikel [SR 431.112](https://www.fedlex.admin.ch/eli/cc/2007/869/de) was vastgelegd dat dit een verplicht nummer is voor mensen die een uitnodiging ontvangen. Wat de straf precies zou zijn, werd niet vermeld.
 

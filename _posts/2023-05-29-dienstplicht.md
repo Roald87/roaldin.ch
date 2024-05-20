@@ -4,7 +4,7 @@ title: Dienstplicht
 image: generated/dienstplicht-1-300-53965161d.png
 ---
 
-{% picture dienstplicht-1.png %}
+{% picture dienstplicht-1.png --alt Twee soldaten in uniform zitten in een beschadigde treinwagon, omringd door gebroken ramen. %}
 
 Hier heeft elke man dienstplicht. Voor vrouwen is dat vooralsnog niet het geval, al is er wel [een initiatief](https://www.servicecitoyen.ch/de/text/) om dat te veranderen.
 

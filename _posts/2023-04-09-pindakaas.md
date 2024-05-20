@@ -4,7 +4,7 @@ title: Pindakaas
 image: generated/pindakaas-1-500-1f17ee470.webp
 ---
 
-{% picture pindakaas-1.png %}
+{% picture pindakaas-1.png --alt Pot pindakaas met een lepel en een half opgegeten boterham. %}
 
 Goed [brood](https://roaldin.ch/brood) vinden was geen probleem. De zoektocht naar goede pindakaas duurde echter langer.
 

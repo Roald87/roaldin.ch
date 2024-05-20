@@ -4,7 +4,7 @@ title: Fotohokjes
 image: generated/fotohokjes-1-500-e0998617f.webp
 ---
 
-{% picture fotohokjes-1.png %}
+{% picture fotohokjes-1.png --alt Groepsfoto van vijf mensen in een zwart-wit getekende stijl, met een versierde rand en gordijnen op de achtergrond. %}
 
 Toen ik zes jaar geleden naar Zwitserland verhuisde, viel het me op dat er veel fotohokjes waren, met name op stations. Het waren van die fotohokjes die je kunt gebruiken om pasfoto’s te maken.
 
