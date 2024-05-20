@@ -60,7 +60,7 @@ def generate_alt_text(image_path: str) -> str:
     return completion.choices[0].message.content.strip()
 
 
-def process_file(filename: str, verbosity: int) -> None:
+def process_file(filename: str) -> None:
     with open(filename, 'r') as file:
         content = file.read()
 
@@ -79,25 +79,22 @@ def process_file(filename: str, verbosity: int) -> None:
                 rf'\1 --alt "{alt_text}"\2',
                 content
             )
-            if verbosity > 1:
-                print(f"Processed image: {image_filename}, generated alt text: {alt_text}")
+            logging.info(f"Processed image: {image_filename}, generated alt text: {alt_text}")
         else:
-            if verbosity > 0:
-                print(f"Image file {image_path} does not exist.")
+            logging.warning(f"Image file {image_path} does not exist.")
 
     # Write the updated content back to the file
     with open(filename, 'w') as file:
         file.write(content)
 
-    if verbosity > 0:
-        print(f"Updated alt text in {filename}.")
+    logging.info(f"Updated alt text in {filename}.")
 
-def process_files(filenames: List[str], verbosity: int) -> None:
+def process_files(filenames: List[str]) -> None:
     for filename in filenames:
         if not os.path.isfile(filename):
-            print(f"File {filename} does not exist.")
+            logging.error(f"File {filename} does not exist.")
             continue
-        process_file(filename, verbosity)
+        process_file(filename)
 
 def main() -> None:
     parser = argparse.ArgumentParser(description='Update alt text in image tags.')
@@ -109,7 +106,7 @@ def main() -> None:
     log_level = max(0, 3 - verbosity) * 10
     logging.basicConfig(level=log_level)
 
-    process_files(args.filenames, args.verbose)
+    process_files(args.filenames)
 
 if __name__ == '__main__':
     main()
