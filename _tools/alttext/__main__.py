@@ -90,6 +90,10 @@ def main() -> None:
     parser.add_argument('-v', '--verbose', action='count', default=0, help='Increase verbosity level')
     args = parser.parse_args()
 
+    verbosity = args.verbose
+    log_level = max(0, 3 - verbosity) * 10
+    logging.basicConfig(level=log_level)
+
     process_files(args.filenames, args.verbose)
 
 if __name__ == '__main__':
