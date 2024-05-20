@@ -103,7 +103,7 @@ def main() -> None:
     args = parser.parse_args()
 
     verbosity = args.verbose
-    log_level = max(0, 3 - verbosity) * 10
+    log_level = max(0, 5 - verbosity) * 10
     logging.basicConfig(level=log_level)
 
     process_files(args.filenames)
