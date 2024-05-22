@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Gefeliciteerd met
-image:
 ---
 
 Het is typisch Nederlands om iemand te feliciteren met de verjaardag van hun moeder, broer of partner. Dat dit niet overal gebruikelijk is, kom je pas achter als je buiten Nederland woont.

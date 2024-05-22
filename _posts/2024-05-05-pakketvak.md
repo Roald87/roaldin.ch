@@ -12,10 +12,10 @@ Ze deed aangifte bij de politie, ook al was er behalve haar stijltang niets gest
 
 Later hoorde ze van de politie dat de daders, twee tienermeisjes die pakketjes jatten uit pakketvakken, waren gepakt. In deze pakketvakken kunnen de bezorgers pakketjes achterlaten als je niet thuis bent. Gelukkig is er uit ons vakje nog nooit iets gestolen.
 
-{% picture pakketvak-1.jpeg %}
+{% picture pakketvak-1.jpeg --alt Open brievenbus met een zwart interieur en een open deur, geplaatst in een groene buitenomgeving. %}
 
 Bij de teamgenoot van I. lag alleen geen pakketje, maar haar huissleutel. Deze had ze er neergelegd omdat een vriend van haar later zou langskomen terwijl ze weg was.
 
 Na dit verhaal gehoord te hebben, laten we onze huissleutel niet meer in dit vak liggen. Wij gebruiken nu een klein kluisje voor de sleutel.
 
-{% picture pakketvak-2.jpg %}
+{% picture pakketvak-2.jpg --alt Sleutelkluis met cijfercombinatie en een sleutel erin gestoken, met een rood label met de tekst kultur. %}

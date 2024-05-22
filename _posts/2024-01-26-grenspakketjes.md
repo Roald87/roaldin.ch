@@ -4,7 +4,7 @@ title: Grenspakketjes
 image: generated/grenspakketjes-1-500-09e66cca0.webp
 ---
 
-{% picture grenspakketjes-1.png %}
+{% picture grenspakketjes-1.png --alt Een getekende kaart van Zwitserland met een pakketje erop geplaatst. %}
 
 In Zwitserland liggen de prijzen van veel spullen hoger dan in omringende landen. Daarom bestellen mensen wel eens wat uit het buitenland. Het nadeel is dat je dan [douanekosten](https://roaldin.ch/douanekosten) en eventueel belasting moet betalen.
 

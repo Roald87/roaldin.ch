@@ -4,7 +4,7 @@ title: Bammetjes achter het bureau
 image: generated/bammetjes-1-500-07ab4c555.webp
 ---
 
-{% picture bammetjes-1.png %}
+{% picture bammetjes-1.png --alt Man eet een sandwich terwijl hij naar een computerscherm kijkt. %}
 
 In Nederland zijn er regelmatig mensen die hun lunch eten achter hun bureau. De Nederlandse bammetjes lenen zich hier natuurlijk ook prima voor.
 

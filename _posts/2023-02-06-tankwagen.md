@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tankwagen
+image: generated/tankwagen-1-500-27a69fcac.webp
 ---
 
 Van de zomer liep ik bij ons door de straat en zag ik een tankwagen staan. Ik was gewend deze vrachtwagens te zien bij tankstations, maar niet in een woonwijk.

@@ -4,7 +4,7 @@ title: Stossluften
 image: generated/stossluften-1-500-c8799c8e0.webp
 ---
 
-{% picture stossluften-1.png %}
+{% picture stossluften-1.png --alt Een zwart-wit tekening van een open raam met een persoon die naar buiten kijkt. Lange, horizontale lijnen suggereren regen of wind die naar binnen waait. %}
 
 In Nederland is ventilatie van essentieel belang in huizen. Elk huis heeft daarom vaak kleine roosters boven elk raam om dit te faciliteren.
 

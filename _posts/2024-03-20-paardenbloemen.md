@@ -6,7 +6,7 @@ image: generated/paardenbloemen-1-500-7b33caad8.webp
 
 Eens in de zoveel tijd valt de onderstaande folder, ondanks de ja-nee-sticker, in onze brievenbus. Deze gigantische paardenbloemen zagen we eerst regelmatig bij mensen in de tuin. Tegenwoordig zien we ze niet meer zo vaak, of zou het gewenning zijn?
 
-{% picture paardenbloemen-1.jpg %}
+{% picture paardenbloemen-1.jpg --alt Straatbeeld met grote paardenbloempluizen en de tekst 'BONVALET-KUNST.CH' op de voorgrond. %}
 
 We vertelden laatst over deze paardenbloemen aan vrienden uit Zürich en zij hadden dit fenomeen nog niet eerder gezien. Blijkbaar wordt er niet geflyerd in de stad.
 

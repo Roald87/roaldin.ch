@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Zwitserduits
+image: zwitserduits-1-500-36f1c6ac1.webp
 ---
 
 Zwitserland kent vier officiële talen en Duits is daar één van. Voor geschreven formele teksten wordt veelal de normale Duitse spelling gehanteerd. Echter, de spreektaal is compleet anders. Als nieuwkomer kom je van een koude kermis thuis als je denkt dat je met gewoon Duits het Zwitserduits ook wel verstaat.

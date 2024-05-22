@@ -4,7 +4,7 @@ title: Huis kopen
 image: generated/huis-kopen-1-500-774f9c22b.webp
 ---
 
-{% picture huis-kopen-1.png %}
+{% picture huis-kopen-1.png --alt Te koop bord voor een huis. %}
 
 Onze overbuurman gaat binnenkort verhuizen. Niet noemenswaardig, tot je weet dat hij net gepensioneerd is én van een huur naar een koophuis gaat. Ik weet niet of het zijn eerste, en wellicht laatste, koophuis is, maar het is opvallend voor een Nederlander.
 

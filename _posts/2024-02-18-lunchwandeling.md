@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Lunchwandeling
-image: #generated/
 ---
 
 In Nederland zie je rond lunchtijd regelmatig een groep mensen een ommetje maken. Het groepje valt vaak op omdat ze in een aparte samenstelling of aantallen lopen, of ze lopen over een onooglijk industrieterrein.

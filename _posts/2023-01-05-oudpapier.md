@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Oud papier
+image: generated/oud-papier-2-1-500-8db7d2ce4.webp
 ---
 
 Oud papier en karton worden hier gescheiden ingezameld. Zo'n eens per maand is het de beurt aan een [roulerende lokale vereniging](https://www.wettingen.ch/abfallarten/2095) om het op te halen. Sommige verenigingen komen met een professionele afvalwagen, anderen met een trekker en een platte kar.

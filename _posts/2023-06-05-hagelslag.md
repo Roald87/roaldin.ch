@@ -8,6 +8,6 @@ Naast [pindakaas](https://roaldin.ch/pindakaas) eet ik ook graag hagelslag. Aanv
 
 De verpakking is iets anders dan de Nederlandse. Op de voorkant staat wel een boterham met hagelslag, maar op de achterkant staan serveersuggesties. Je ziet voorbeelden van hagelslag op cake, in de yoghurt of op ijs.
 
-{% picture hagelslag-1.jpg %}
+{% picture hagelslag-1.jpg --alt Voorzijde van een doos De Ruijter Chocoladehagel puur, met een afbeelding van een boterham met boter en chocoladehagelslag. Achterzijde van de doos met productinformatie, ingrediëntenlijst en suggesties voor gebruik van de chocoladehagelslag. %}
 
 Ik heb mensen als bedankje ook wel eens een Nederlandse hagelslagverpakking gegeven. Zij doen het dan door de yoghurt of op ijs. De brood-optie moet ik ze altijd uitleggen.
