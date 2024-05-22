@@ -337,30 +337,3 @@ body:hover {
 small a {
   padding-right: 0.61803rem;
 }
-
-.footnotes {
-  font-size: 0.8em; /* Adjust the size as needed */
-  border-top: 1px solid gray; /* Horizontal stripe */
-  margin-top: 20px;
-  padding-top: 10px;
-  color: gray;
-}
-
-.footnotes ol {
-  padding-left: 20px;
-  color: gray;
-}
-
-.footnotes li {
-  margin-bottom: 10px;
-  color: gray;
-}
-
-.footnote-backref {
-  font-size: 0.8em; /* Match the font size of footnotes */
-  color: gray;
-}
-
-.footnotes a {
-  color: gray;
-}
