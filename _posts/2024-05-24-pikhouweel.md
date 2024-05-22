@@ -4,7 +4,7 @@ title: Pikhouweel
 image: generated/pikhouweel-1-500-885fc7949.webp
 ---
 
-{% picture pikhouweel-1.webp %}
+{% picture pikhouweel-1.webp --alt Zwart-witte schets van een houweel met een houten handvat en een metalen punt. %}
 
 Als kind zag ik vaak pikhouwelen in tekenfilms, maar in het echt had ik ze nooit gezien. Daarom associeerde ik ze altijd met tekenfilms of misschien met mijnwerkers.
 
