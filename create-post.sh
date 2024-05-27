@@ -6,7 +6,7 @@ FUTURE_DAYS=$2
 
 # Validate the post name input parameter
 if [ -z "$NAME" ]; then
-    echo "Error: Post name is required."
+    echo "create-post.sh: Error: Post name is required."
     exit 1
 fi
 
@@ -49,13 +49,14 @@ obsidian
 
 # Display a success message
 if [ "$FUTURE_DAYS" -eq 0 ]; then
-    echo "Everything is ready for a post about $CAPITALIZED_NAME."
+    echo "create-post.sh: Everything is ready for a post about $CAPITALIZED_NAME."
 else
-    echo "Everything is ready for a post about $CAPITALIZED_NAME on $FUTURE_DATE."
+    echo "create-post.sh: Everything is ready for a post about $CAPITALIZED_NAME on $FUTURE_DATE."
 fi
 
 # Check if the script is being called on its own
 if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
     # Execute the meta-image script
+    echo "create-post.sh: Run meta-image.sh"
     bash meta-image.sh $NAME
 fi

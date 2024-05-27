@@ -6,7 +6,7 @@ FILENAME=$2
 
 # Validate the post name input parameter
 if [ -z "$NAME" ]; then
-    echo "Error: Post name is required."
+    echo "meta-image.sh: Error: Post name is required."
     exit 1
 fi
 
@@ -17,11 +17,11 @@ fi
 
 # Validate the filename
 if [ -z "$FILENAME" ]; then
-    echo "Error: File with the filename pattern [$NAME] not found in the _posts folder."
+    echo "meta-image.sh: Error: File with the filename pattern [$NAME] not found in the _posts folder."
     exit 1
 fi
 
-echo "Using filename $FILENAME"
+echo "meta-image.sh: Using filename $FILENAME"
 
 # Monitor the output for the image filename pattern
 while read -r line; do
@@ -29,6 +29,7 @@ while read -r line; do
     if [[ $line =~ $NAME-1-500-[a-z0-9]+\.webp ]]; then
         # Copy the image filename
         IMAGE_FILENAME="${BASH_REMATCH[0]}"
+        echo "meta-image.sh: Found a match with $IMAGE_FILENAME"
 
         # Replace the image line in the file
         sed -i "s/image: #generated\//image: generated\/$IMAGE_FILENAME/" $FILENAME
