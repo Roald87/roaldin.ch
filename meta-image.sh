@@ -32,6 +32,6 @@ while read -r line; do
         echo "meta-image.sh: Found a match with $IMAGE_FILENAME"
 
         # Replace the image line in the file
-        sed -i "s/image: #generated\//image: generated\/$IMAGE_FILENAME/" $FILENAME
+        sed -i "s/image:/image: generated\/$IMAGE_FILENAME/" $FILENAME
     fi
 done < <(bundle exec jekyll serve --future)

@@ -42,7 +42,7 @@ NAME_WITH_SPACES="${NAME//-/ }"
 CAPITALIZED_NAME="${NAME_WITH_SPACES^}"
 
 # Add the content to the file
-echo -e "---\nlayout: post\ntitle: $CAPITALIZED_NAME\nimage: #generated/\n---" > $FILE_NAME
+echo -e "---\nlayout: post\ntitle: $CAPITALIZED_NAME\nimage:\n---" > $FILE_NAME
 
 # Open obsidian
 obsidian
