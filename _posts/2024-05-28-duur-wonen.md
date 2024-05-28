@@ -4,7 +4,7 @@ title: Duur wonen
 image:
 ---
 
-Nederland is niet alleen wat betreft krapte op de woningmarkt. Ook hier is het een actueel thema. Zo kwam ik vandaag artikelen tegen op de NOS[^1] en de SRF[^2] (de Zwitserse NOS) die beide schreven over het woningtekort. De NOS belichtte dat Nederlanders een relatief groot aandeel van hun inkomen aan woonlasten kwijt waren. De SRF schreef dat het een terugkerend fenomeen is dat af en toe de kop op steekt.
+Nederland kampt niet alleen met krapte op de woningmarkt, ook hier is het een actueel thema. Zo kwam ik vandaag artikelen tegen op de NOS[^1] en de SRF[^2] (de Zwitserse NOS) die beide schreven over het woningtekort. De NOS belichtte dat Nederlanders een relatief groot aandeel van hun inkomen aan woonlasten kwijt waren. De SRF schreef dat het een terugkerend fenomeen is dat af en toe de kop opsteekt.
 
 De reden voor het woningtekort momenteel wordt toegeschreven aan bevolkingsgroei en te weinig nieuwbouw. Daarnaast is er ook hier een tekort aan geschikt en beschikbaar land voor woningen. Zo is 70% bergachtig gebied, waar slechts een kwart van de bevolking woont[^3]. Daarnaast slokt de landbouw meer dan de helft van de ruimte op in het centrale plateau tussen de Jura en de Alpen. Tot slot zijn er de nodige rivieren en meren.
 
