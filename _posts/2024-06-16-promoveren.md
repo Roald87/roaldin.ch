@@ -4,7 +4,7 @@ title: Promoveren
 image: generated/promoveren-1-500-d860cdf31.webp
 ---
 
-{% picture promoveren-1.jpg %}
+{% picture promoveren-1.jpg --alt Afstudeerhoed met kwastje. %}
 
 Recent had ik het genoegen om mijn eerste Zwitserse verdediging bij te wonen van een promovendus. Het viel me tegen hoe dit gevierd werd.
 
