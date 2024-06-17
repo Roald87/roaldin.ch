@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # OR "2" -> To retrieve the preceding commit.
+          ref: ${{ github.head_ref }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -32,7 +32,7 @@ jobs:
 
       - name: Get all changed *.md file(s) in the _posts folder
         id: changed-markdown-files
-        uses: tj-actions/changed-files@v35
+        uses: tj-actions/changed-files@v44
         with:
           files: _posts/*.md
 
