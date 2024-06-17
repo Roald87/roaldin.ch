@@ -4,7 +4,7 @@ title: Vrouwenemancipatie
 image: generated/vrouwenemancipatie-1-500-bd01537b1.webp
 ---
 
-{% picture vrouwenemancipatie-1.jpg %}
+{% picture vrouwenemancipatie-1.jpg --alt Zwart vrouwensymbool op een witte achtergrond %}
 
 Hoe hier over vrouwen wordt gedacht lijkt soms een generatie achter te lopen vergeleken met Nederland. Een vriendin vertelde dat een vriendin van haar, A., naar Zwitserland was verhuisd. A. was werkloos en moest iets bij de gemeente aanvragen. Toen ze vertelde dat ze geen werk had zei de ambtenaar niet ironisch "Dat snap ik wel, u leeft lekker op het salaris van uw man."
 
