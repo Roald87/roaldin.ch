@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Promoveren
-image: generated/promoveren-1-500-d860cdf31.webp
+image: generated/promoveren-1-500-8861e718d.webp
 ---
 
 {% picture promoveren-1.jpg --alt Afstudeerhoed met kwastje. %}
