@@ -14,9 +14,14 @@ def user(content):
 
 def spellcheck(text: str) -> str:
     completion = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4o",
         messages=[
-            system("Jij corrigeert de spelling, grammatica en interpunctie van teksten. Je behoud markdown opmaak en je verandert geen yaml front matter."),
+            system("Je bent een editor en corrigeert de spelling, grammatica en interpunctie van teksten. "
+                   "Daarnaast probeer je ook de flow van de tekst te verbeteren. "
+                   "Verander zinnen die niet goed op elkaar aansluiten. "
+                   "Probeer zinnen zo kort mogelijk te maken en probeer lange zinnen op te breken."
+                   "Je behoud markdown opmaak en je verandert geen yaml front matter. "
+                   "Reageer alleen met de veranderde tekst."),
             user(text)
         ],
         temperature=0,
