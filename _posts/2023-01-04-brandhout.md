@@ -9,6 +9,8 @@ Een grote voorraad stookhout naast de deur is hier gebruikelijk, zelfs bij huize
 
 Een open haard in dichtbevolkt gebied levert veel overlast op voor omwonenden. Schoorstenen hebben geen luchtfilters, dus de buurt krijgt een aanzienlijke hoeveelheid fijnstof cadeau. Zelfs deze voormalige pyromaan ergert zich er wel eens aan.
 
-Desalniettemin geldt verwarmen met hout als duurzaam. Zo kan het dat de gemeente [Furna in Graubünden (populatie 207) met 90% duurzame verwarmingsenergie](https://www.srf.ch/news/schweiz/erneuerbare-energie-welche-schweizer-gemeinde-heizt-am-klimafreundlichsten) op nummer één staat in Zwitserland.
+Desalniettemin geldt verwarmen met hout als duurzaam. Zo kan het dat de gemeente Furna in Graubünden (populatie 207) met 90% duurzame verwarmingsenergie op nummer één staat in Zwitserland[^1].
 
 F. zit er warmpjes bij deze winter, ook qua duurzaamheid.
+
+[^1]: "Welche Schweizer Gemeinde heizt am klimafreundlichsten?", Sven Niederhäuser, SRF, 21.04.2022 <https://www.srf.ch/news/schweiz/erneuerbare-energie-welche-schweizer-gemeinde-heizt-am-klimafreundlichsten>
