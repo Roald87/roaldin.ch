@@ -4,7 +4,7 @@ title: Verkeerd om
 image: generated/verkeerd-om-1-500-2b208396d.webp
 ---
 
-{% picture verkeerd-om-1.jpg %}
+{% picture verkeerd-om-1.jpg --alt Vier speelkaarten met de symbolen harten, klaveren, schoppen en ruiten, allemaal met de waarde aas. %}
 
 De eerst keer dat ik een kaartspel met Zwitsers speelde, ging er iets fout. Ik ging ervan uit dat we met de klok mee zouden spelen, maar dat bleek niet zo te zijn.
 
