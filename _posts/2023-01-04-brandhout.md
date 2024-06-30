@@ -3,10 +3,14 @@ layout: post
 title: "Brandhout"
 ---
 
-Collega F. meldde laatst dat hij de volgende dag niet naar kantoor zou komen. Er werd namelijk brandhout geleverd voor de familie berghut. Aangezien de berghut niet met de auto te bereiken was, betekende dat het nodige sjouwwerk.
+Collega F. meldde laatst dat hij de volgende dag niet naar kantoor zou komen, omdat er brandhout werd geleverd voor de familieberghut. Aangezien de berghut niet met de auto te bereiken was, betekende dit het nodige sjouwwerk.
 
-Een grote voorraad stookhout naast de deur is niet ongebruikelijk hier. Zelfs bij huizen in stedelijk gebied. In de bergen is het nog te begrijpen, maar in dichtbebouwd gebied levert het ook overlast op. Schoorstenen hebben geen luchtfilters, dus de omwonenden krijgen de nodige hoeveelheid fijnstof cadeau. Zelfs deze voormalige pyromaan ergert zich er wel eens aan.
+Een grote voorraad stookhout naast de deur is hier gebruikelijk, zelfs bij huizen in stedelijk gebied. In berghutten zonder centrale verwarming is dat begrijpelijk, maar voor huizen met verwarming is dat niet nodig.
 
-Desalniettemin geldt verwarmen met hout als duurzaam. Zo kan het dat de gemeente [Furna in Graubünden (populatie 207) met 90% duurzame verwarmingsenergie](https://www.srf.ch/news/schweiz/erneuerbare-energie-welche-schweizer-gemeinde-heizt-am-klimafreundlichsten) op één staat in Zwitserland.
+Een open haard in dichtbevolkt gebied levert veel overlast op voor omwonenden. Schoorstenen hebben geen luchtfilters, dus de buurt krijgt een aanzienlijke hoeveelheid fijnstof cadeau. Zelfs deze voormalige pyromaan ergert zich er wel eens aan.
 
-F. zit er warmpjes bij deze winter. Ook qua duurzaamheid.
+Desalniettemin geldt verwarmen met hout als duurzaam. Zo kan het dat de gemeente Furna in Graubünden (populatie 207) met 90% duurzame verwarmingsenergie op nummer één staat in Zwitserland[^1].
+
+F. zit er warmpjes bij deze winter, ook qua duurzaamheid.
+
+[^1]: "Welche Schweizer Gemeinde heizt am klimafreundlichsten?", Sven Niederhäuser, SRF, 21.04.2022 <https://www.srf.ch/news/schweiz/erneuerbare-energie-welche-schweizer-gemeinde-heizt-am-klimafreundlichsten>
