@@ -1,3 +1,9 @@
+---
+layout: post
+title: Guillemets
+image:
+---
+
 Laatst was ik bij een tentoonstelling waar de guillemets andersom werden gebruikt dan ik gewend was. Guillemets zijn deze tekens: « ». Ze worden in sommige landen, waaronder Zwitserland, als aanhalingstekens gebruikt.
 
 In mijn herinnering werd geopend met de naar links wijzende en afgesloten met de naar rechts wijzende guillemets. Hier was het echter andersom. Mijn Duitse vriend N. vond het ook vreemd en gebruikte altijd « ».
