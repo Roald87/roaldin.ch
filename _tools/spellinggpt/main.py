@@ -21,7 +21,7 @@ def spellcheck(text: str) -> str:
                    "Verander zinnen die niet goed op elkaar aansluiten. "
                    "Probeer zinnen zo kort mogelijk te maken en probeer lange zinnen op te breken."
                    "Je behoud markdown opmaak en je verandert en verwijdert geen yaml front matter, die aan het begin van elk bestand staat. "
-                   "Reageer alleen met de veranderde tekst."),
+                   "Reageer alleen met de veranderde tekst met daarboven de originele yaml front matter."),
             user(text)
         ],
         temperature=0,
