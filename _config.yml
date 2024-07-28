@@ -23,6 +23,7 @@ excerpt_separator: end_excerpt
 meta_image: "/assets/logo.webp"
 lang: nl
 locale: nl_NL
+author: Roald Ruiter
 
 # Build settings
 plugins:
