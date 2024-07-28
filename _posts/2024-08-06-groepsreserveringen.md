@@ -4,7 +4,7 @@ title: Groepsreserveringen
 image: generated/groepsreserveringen-1-500-3311335b3.webp
 ---
 
-{% picture groepsreserveringen-1.jpg %}
+{% picture groepsreserveringen-1.jpg --alt Gereseveerd bord op een parkeerplaats. %}
 
 Regelmatig zie ik hier treincoupés die zijn gereserveerd voor een groep. Vaak door schoolklassen op een uitje, maar je ook wel eens andere groepen. Zo had ik laatst een wandeling met collega’s, waarvoor een gedeelte van de coupe was gereserveerd.
 
