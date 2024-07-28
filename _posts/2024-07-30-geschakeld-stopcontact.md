@@ -8,7 +8,7 @@ Net als in Nederland hebben huizen hier gelijke stopcontacten en lichtschakelaar
 
 Eén van de drie stekkers is soms geschakeld. Dit zie je aan het schakelsymbooltje naast het stopcontact. Dit contact wordt tegelijk aan- en uitgeschakeld met een van de lichtknoppen voor de centrale verlichting in het plafond.
 
-{% picture geschakeld-stopcontact-1.jpg %}
+{% picture geschakeld-stopcontact-1.jpg --alt Dubbele wandcontactdoos met een stopcontact en een lege afdekplaat op een witte muur. %}
 
 Toen ik voor het eerst per ongeluk een stekker hierin stak en er niets gebeurde, duurde het even voordat ik doorhad wat er mis was.
 
