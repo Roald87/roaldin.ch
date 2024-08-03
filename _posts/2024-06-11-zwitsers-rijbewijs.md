@@ -14,4 +14,4 @@ Voor collega Y. had het nog wat meer voeten in de aarde. Hij studeert al meerder
 
 Y. vond echter via een omweg een manier om het voor elkaar te krijgen. De regels in Kanton Vaud zijn blijkbaar anders. Daar kun je als student wel je rijbewijs omwisselen. Na een administratieve verhuizing kon Y. zijn rijbewijs aanvragen.
 
-[^1] <https://www.zh.ch/de/mobilitaet/fuehrerausweis-fahren-lernen/auslaendischer-fuehrerausweis.html>
+[^1]: Umtausch eines ausländischen Führerausweises, <https://www.zh.ch/de/mobilitaet/fuehrerausweis-fahren-lernen/auslaendischer-fuehrerausweis.html>
