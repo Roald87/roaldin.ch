@@ -3,7 +3,7 @@ layout: post
 title: Verblijfsvergunning 3
 ---
 
-Vandaag moest ik naar Aarau voor mijn [verblijfsvergunning](roaldin.ch/verblijfsvergunning-2). Ik had de trein genomen die een kwartier voor mijn afspraak aankwam. Genoeg tijd dacht ik, want het _Ausweiszentrum Aargau_ zat naast het station. Maar dat bleek nog wel mee te vallen.
+Vandaag moest ik naar Aarau voor mijn verblijfsvergunning[^1]. Ik had de trein genomen die een kwartier voor mijn afspraak aankwam. Genoeg tijd dacht ik, want het _Ausweiszentrum Aargau_ zat naast het station. Maar dat bleek nog wel mee te vallen.
 
 Zo nam ik eerst de verkeerde uitgang bij het station. Toen ik eenmaal aan de goede kant stond, werd mijn weg versperd door bouwwerkzaamheden. Ik was echter niet de enige. Er stonden nog twee mensen vragend om zich heen te kijken.
 
@@ -16,3 +16,5 @@ Ik wilde de brief voor me neerleggen, maar deze waaide naar me toe. Er kwam een 
 Na een korte controle kon ik door naar de foto/vingerafdrukruimte. Er waren een stuk of vijf fotohokjes met gordijnen. Eenmaal binnen zag ik dat er aan één kant een groot glazen raam zat. Ook hier zat weer een medewerker erachter. De ambtenaar vroeg me allereerst mijn naam en geboortedatum te controleren en te bevestigen met een handtekening. Daarna werd er een pasfoto genomen. De vingerafdrukken, die volgens de uitnodiging ook genomen zouden worden, bleken niet nodig.
 
 En zo stond ik na nog geen tien minuten alweer buiten. De omweg ernaartoe duurde langer.
+
+[^1]: <https://roaldin.ch/verblijfsvergunning-2>

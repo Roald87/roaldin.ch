@@ -14,4 +14,4 @@ Zo was collega F. met zijn vriendin wezen multi-pitch[^1] klimmen op de Rigi. S.
 
 Deze week begon gelukkig een stuk normaler. Iedereen deed het rustig aan en was thuis gebleven.
 
-[^1]: [Multi-pitch klimmen](https://en.m.wikipedia.org/wiki/Multi-pitch_climbing) doe je als de klimroute langer is dan een touwlengte. De klimmers gaan omstebeurt naar dezelfde hoogte. De klimmers moeten elkaar dan zekeren terwijl ze aan de muur hangen.
+[^1]: Multi-pitch klimmen doe je als de klimroute langer is dan een touwlengte. De klimmers gaan omstebeurt naar dezelfde hoogte. De klimmers moeten elkaar dan zekeren terwijl ze aan de muur hangen. <https://en.m.wikipedia.org/wiki/Multi-pitch_climbing>

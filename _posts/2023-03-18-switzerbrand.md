@@ -99,4 +99,6 @@ De grote vraag is nu natuurlijk: hoe vergelijkt Zwitserland met andere Europese 
 
 Bron: zefix.admin.ch
 
-De code om de resultaten te reproduceren vind je [hier](https://github.com/roald87/switzerbrand).
+De code om de resultaten te reproduceren vind je hier[^1].
+
+[^1]: <https://github.com/roald87/switzerbrand>

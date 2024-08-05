@@ -3,7 +3,7 @@ layout: post
 title: i chume für de wii
 ---
 
-Dit verhaal speelde zich een aantal jaren geleden af. Destijds verstond ik nauwelijks [Zwitserduits](https://roaldin.ch/zwitserduits/). Tegenwoordig versta ik het meestal, vooral als ik de context weet.
+Dit verhaal speelde zich een aantal jaren geleden af. Destijds verstond ik nauwelijks Zwitserduits[^1]. Tegenwoordig versta ik het meestal, vooral als ik de context weet.
 
 ---
 
@@ -16,3 +16,5 @@ Ik knikte en lachte vriendelijk, hopend dat dit de juiste respons was en het ges
 Nog geen minuut later stopte de lift en de deuren gingen open. Er kwam een man uitgelopen met een karretje vol met wijndozen voor de mevrouw.
 
 Had ik het toch goed verstaan.
+
+[^1]: <https://roaldin.ch/zwitserduits/>

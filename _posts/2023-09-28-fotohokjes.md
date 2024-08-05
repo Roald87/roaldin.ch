@@ -14,4 +14,6 @@ Ze werden niet vaak gebruikt, althans, ik zag het niet. Als ik ze gebruikt zag w
 
 Tegenwoordig zie ik ze minder. Of ze worden langzaam weggehaald, of ik raak eraan gewend.
 
-Er is één fotohokje dat wel vaak gebruikt wordt. [In Zürich](https://maps.app.goo.gl/UtGtN9Pp7W7yNXSV7?g_st=ic) staat een ouderwets fotohokje waar je vier zwart-wit foto’s kunt nemen voor een paar Franc. Ik weet niet precies hoe het werkt, maar het ruikt in het hokje naar zwavel of rotte eieren.
+Er is één fotohokje dat wel vaak gebruikt wordt. In Zürich[^1] staat een ouderwets fotohokje waar je vier zwart-wit foto’s kunt nemen voor een paar Franc. Ik weet niet precies hoe het werkt, maar het ruikt in het hokje naar zwavel of rotte eieren.
+
+[^1]: <https://maps.app.goo.gl/UtGtN9Pp7W7yNXSV7?g_st=ic>

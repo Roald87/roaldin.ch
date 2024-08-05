@@ -18,4 +18,6 @@ Stop je je afval in een gewone zak om kosten te besparen, dan is er een kans dat
 
 Niet iedereen is op de hoogte van de speciale zakken. Ik had een Zwitserse collega S. die jarenlang zijn afval in gewone zakken deed. Tot zijn niet Zwitserse vriendin hem vroeg waar hij die goedkope zakken toch altijd vandaan haalde.
 
-In Nederland betaal je in veel gemeenten een vast bedrag voor een eenpersoons- of een meerpersoonshuishouden. Echter, in [Zwolle](https://www.zoesklot.nl/restafval/) zijn ze overgestapt en betaal je nu per storting in de ondergrondse container. Hopelijk houdt het systeem stand. In Arnhem was dat helaas niet het geval, omdat te veel mensen hun afval naast de container zetten.
+In Nederland betaal je in veel gemeenten een vast bedrag voor een eenpersoons- of een meerpersoonshuishouden. Echter, in Zwolle[^1] zijn ze overgestapt en betaal je nu per storting in de ondergrondse container. Hopelijk houdt het systeem stand. In Arnhem was dat helaas niet het geval, omdat te veel mensen hun afval naast de container zetten.
+
+[^1]: <https://www.zoesklot.nl/restafval/>

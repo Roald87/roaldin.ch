@@ -6,7 +6,7 @@ image: generated/dienstplicht-1-300-53965161d.png
 
 {% picture dienstplicht-1.png --alt Twee soldaten in uniform zitten in een beschadigde treinwagon, omringd door gebroken ramen. %}
 
-Hier heeft elke man dienstplicht. Voor vrouwen is dat vooralsnog niet het geval, al is er wel [een initiatief](https://www.servicecitoyen.ch/de/text/) om dat te veranderen.
+Hier heeft elke man dienstplicht. Voor vrouwen is dat vooralsnog niet het geval, al is er wel een initiatief[^1] om dat te veranderen.
 
 <!-- end_excerpt -->
 
@@ -33,3 +33,5 @@ Het reizen naar de Wiederholungskurs of de basistraining doen de meeste mensen m
 Als je in het leger zit, moet je ook eens in de zoveel tijd naar de schietbaan om je schietbrevet te vernieuwen. Het geweer hebben ze overigens altijd thuis, zonder munitie, dat wel. Ik geloof niet dat ik ooit heb gehoord dat mensen hier rare dingen mee hebben gedaan, zoals vaak in de VS gebeurt. Waarschijnlijk komt dit doordat alle eigenaars getraind en beoordeeld zijn.
 
 De meeste mensen zijn tevreden met het systeem, ondanks geklaag over de saaie periodes en het soms nutteloze werk. Ook aangezien ze de dienstplicht willen uitbreiden en het voor vrouwen ook verplicht willen maken.
+
+[^1]: <https://www.servicecitoyen.ch/de/text/>

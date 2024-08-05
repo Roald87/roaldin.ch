@@ -6,7 +6,7 @@ image: generated/pindakaas-1-500-1f17ee470.webp
 
 {% picture pindakaas-1.png --alt Pot pindakaas met een lepel en een half opgegeten boterham. %}
 
-Goed [brood](https://roaldin.ch/brood) vinden was geen probleem. De zoektocht naar goede pindakaas duurde echter langer.
+Goed brood[^1] vinden was geen probleem. De zoektocht naar goede pindakaas duurde echter langer.
 
 In Nederland was ik eerst een groot fan van Calvé en later van de 100% varianten. Helaas was deze moeilijk te vinden.
 
@@ -14,4 +14,7 @@ Amerikaanse stijl pindakaas was er wel, maar ik ben geen liefhebber van zoete pi
 
 Ik heb een tijdje zelf pindakaas gemaakt in een keukenmachine. Dit ging best goed, maar het was een hoop gedoe. Bovendien was het niet makkelijk om ongezouten pinda's te vinden.
 
-We namen daarom vaak een paar kilopotten 100% pindakaas mee uit Nederland. Gelukkig is dit tegenwoordig niet meer nodig. Dankzij de gezondheids- en fitness-trends is er nu [een hele goede 100-procenter](https://www.coop.ch/en/food/inventories/spreads/other-sweet-spreads/nu3-peanut-butter/p/6548145) te koop bij 'onze' supermarkt.
+We namen daarom vaak een paar kilopotten 100% pindakaas mee uit Nederland. Gelukkig is dit tegenwoordig niet meer nodig. Dankzij de gezondheids- en fitness-trends is er nu een hele goede 100-procenter[^2] te koop bij 'onze' supermarkt.
+
+[^1]: <https://roaldin.ch/brood>
+[^2]: <https://www.coop.ch/en/food/inventories/spreads/other-sweet-spreads/nu3-peanut-butter/p/6548145>

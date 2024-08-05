@@ -16,4 +16,6 @@ Hier is het kopen van een huis een ander verhaal. Ten eerste moet je minimaal 20
 
 Ten tweede is het ongunstiger om een eigen huis te hebben. Je moet namelijk een soort van huur betalen genaamd "Eigenmietwert". Deze belasting is 60-70% van wat je voor een vergelijkbare woning aan huur zou betalen. Daarentegen mag je onderhoudskosten en hypotheekrente aftrekken van deze belasting. Dit leidt ertoe dat niemand zijn huis afbetaalt, omdat het gunstiger is om een hypotheek te hebben.
 
-Omdat het hier minder voordelig is om een eigen huis te hebben, heeft [slechts 42.3%](https://www.statista.com/statistics/246355/home-ownership-rate-in-europe/) van de mensen hier een eigen huis, ten opzichte van 70.6% voor Nederland. Vooral in en rondom grote steden huurt bijna iedereen. En als mensen een huis kopen, zijn ze vaak al in de 40. Ik weet niet hoeveel mensen, zoals onze buurman, hun eerste huis kopen als ze gepensioneerd zijn.
+Omdat het hier minder voordelig is om een eigen huis te hebben, heeft slechts 42.3%[^1] van de mensen hier een eigen huis, ten opzichte van 70.6% voor Nederland. Vooral in en rondom grote steden huurt bijna iedereen. En als mensen een huis kopen, zijn ze vaak al in de 40. Ik weet niet hoeveel mensen, zoals onze buurman, hun eerste huis kopen als ze gepensioneerd zijn.
+
+[^1]: <https://www.statista.com/statistics/246355/home-ownership-rate-in-europe/>

@@ -10,6 +10,8 @@ Er zijn opvallend veel hondentrainveldjes in Zwitserland. In onze woonplaats met
 
 Ik vroeg me al een tijdje af waarom dit zo was. Zouden ze hier misschien massaal trainen voor een Zwitserse remake van het _Natte neuzen_ programma uit de jaren 90 met Martin Gaus?
 
-Met de tijd leerde ik dat het hebben van een hond hier niet zomaar mocht. Er was een tijd dat je op cursus moest als je een hond aanschafte. Maar [deze regel](https://www.blv.admin.ch/blv/de/home/tiere/tierschutz/heim-und-wildtierhaltung/hunde.html) werd in 2017 afgeschaft.
+Met de tijd leerde ik dat het hebben van een hond hier niet zomaar mocht. Er was een tijd dat je op cursus moest als je een hond aanschafte. Maar deze regel[^1] werd in 2017 afgeschaft.
 
 De regel mag er dan wel niet meer zijn, het lijkt nog onverminderd populair om toch op cursus te gaan.
+
+[^1]: <https://www.blv.admin.ch/blv/de/home/tiere/tierschutz/heim-und-wildtierhaltung/hunde.html>

@@ -3,7 +3,7 @@ layout: post
 title: Verblijfsvergunning 2
 ---
 
-Eerder schreef ik over mijn [aanvraag voor een nieuwe verblijfsvergunning](https://roaldin.ch/verblijfsvergunning/). Dit verhaal kreeg een onverwacht vervolg toen ik deze week terugkwam van vakantie.
+Eerder schreef ik over mijn aanvraag voor een nieuwe verblijfsvergunning[^1]. Dit verhaal kreeg een onverwacht vervolg toen ik deze week terugkwam van vakantie.
 
 Het begon op maandagochtend op het werk waar mijn laptop weigerde verbinding te maken met het wifi-netwerk. Dit was vreemd, maar het gebeurde wel vaker. Meestal werkte hij na een paar minuten weer.
 
@@ -15,4 +15,7 @@ Thuis had ik al een brief gekregen dat ik een nieuwe verblijfsvergunning zou kri
 
 De volgende ochtend belde ik Kanton Aargau en ze gaven me een officiële bevestiging. Aanvankelijk stelden ze voor om een bevestiging per post te sturen, maar het kon gelukkig ook per e-mail. Ik stuurde het document door naar HR en mijn accounts werden vrijgegeven, hoewel het een dag zou kunnen duren, en dat deed het ook.
 
-Gelukkig kon ik werk verrichten omdat ik kon inloggen op Windows. Echter, deze werd na de lunch ook geblokkeerd en was het moeilijk om nog iets te doen. Ik besloot om een kortere dag te maken en te trainen voor de lokale [Limmatlauf](https://badenerlimmatlauf.ch/). 🏃‍
+Gelukkig kon ik werk verrichten omdat ik kon inloggen op Windows. Echter, deze werd na de lunch ook geblokkeerd en was het moeilijk om nog iets te doen. Ik besloot om een kortere dag te maken en te trainen voor de lokale Limmatlauf[^2]. 🏃‍
+
+[^1]: <https://roaldin.ch/verblijfsvergunning/>
+[^2]: <https://badenerlimmatlauf.ch/>
