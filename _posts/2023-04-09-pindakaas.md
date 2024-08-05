@@ -8,7 +8,7 @@ image: generated/pindakaas-1-500-1f17ee470.webp
 
 Goed brood[^1] vinden was geen probleem. De zoektocht naar goede pindakaas duurde echter langer.
 
-In Nederland was ik eerst een groot fan van Calvé en later van de 100% varianten. Helaas was deze moeilijk te vinden.
+In Nederland was ik eerst een groot fan van Calvé en later van de 100% varianten. Helaas waren deze moeilijk te vinden.
 
 Amerikaanse stijl pindakaas was er wel, maar ik ben geen liefhebber van zoete pindakaas. Er waren wel een paar 100% varianten van biomerken, maar deze pinda's leken niet of nauwelijks te zijn gebrand. Ook was het potje zo klein dat het binnen een paar dagen leeg was.
 

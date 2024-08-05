@@ -13,7 +13,7 @@ _Kaartje van bfe.admin.ch[^2]_
 
 Daarom kregen wij vroeger een bonnetje om gratis jodiumtabletten op te halen bij de apotheek. Deze jodiumtabletten voorkomen dat radioactief materiaal zich ophoopt in de lymfeklieren als dit vrijkomt bij een ongeluk.
 
-Recent is er een beleidsverandering geweest, want de tabletten kregen we ineens per post opgestuurd.
+Recent is er een beleidsverandering geweest. De tabletten kregen we ineens per post opgestuurd.
 
 {% picture jodiumtabletten-1.jpg --alt Verpakking van kaliumjodidetabletten 65 SERB, met instructies in het Duits en Engels. De tekst vermeldt dat de tabletten alleen op voorschrift van de autoriteiten mogen worden ingenomen en beschermen de schildklier tegen radioactief jodium. De verpakking bevat 2 x 6 tabletten. %}
 

@@ -3,7 +3,7 @@ layout: post
 title: Plaatsnamen
 ---
 
-Het leuke van in een ander land wonen is dat een Duits woord in het Nederlands (of Engels) een andere, en soms grappige, betekenis kan hebben. Zo gebruikte Herman Finkers[^1] Kloten al eens in een show: "Basel of Zürich, het blijft Kloten".
+Het leuke van in een ander land wonen is dat een Duits woord in het Nederlands (of Engels) een andere, en soms grappige, betekenis kan hebben. Zo gebruikte Herman Finkers[^1] Kloten al eens in een show: "Basel of Zürich, het blijft Kloten."
 
 Naast Kloten zijn er nog een paar grappige plaatsnamen:
 

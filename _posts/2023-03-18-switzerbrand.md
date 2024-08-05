@@ -6,7 +6,7 @@ image: assets/switzerbrand-6.png
 
 Het merk Zwitserland is sterk en populair. Veel bedrijven plaatsen de Zwitserse vlag op hun producten, verpakkingen of verwerken het in hun logo. Soms is de landsnaam onderdeel van hun naam. Hieronder volgt een overzicht van hoe vaak dat gebeurt in de drie officiële talen, plus het Engels en Latijn.
 
-Niet geheel verrassend is de Engelse, universeel verbindende, taal het populairst. Neem 10,000 willekeurige bedrijven en 183 hebben "Swiss" in hun naam verwerkt. Op twee staat de Duitse spelling, gevolgd door de Franse. Dit is ook niet geheel toevallig, aangezien het Duitse gedeelte meer inwoners heeft dan het Franstalige.
+Niet geheel verrassend is de Engelse taal het populairst. Neem 10.000 willekeurige bedrijven en 183 hebben "Swiss" in hun naam verwerkt. Op twee staat de Duitse spelling, gevolgd door de Franse. Dit is ook niet toevallig, aangezien het Duitse gedeelte meer inwoners heeft dan het Franstalige.
 
 ```
 Aantal bedrijfsnamen die de landsnaam gebruiken
@@ -21,7 +21,7 @@ Svizzera ▍    3 (190 totaal)
 Bron: zefix.admin.ch
 ```
 
-Als we kijken naar hoe de bedrijven zijn verdeeld over het land per taal, krijgen we het onderstaande resultaten. Des te donkerder het rood, des te meer bedrijven er zijn in dat kanton met de landsnaam, relatief gezien. Het is relatief om te voorkomen dat kantons met veel bedrijven altijd bovenaan de lijst staan. In de tabel onder de kaart zijn de resultaten gerangschikt aan de hand van hoe vaak een naam relatief voorkomt.
+Als we kijken naar hoe de bedrijven zijn verdeeld over het land per taal, krijgen we de onderstaande resultaten. Des te donkerder het rood, des te meer bedrijven er zijn in dat kanton met de landsnaam, relatief gezien. Het is relatief om te voorkomen dat kantons met veel bedrijven altijd bovenaan de lijst staan. In de tabel onder de kaart zijn de resultaten gerangschikt aan de hand van hoe vaak een naam relatief voorkomt.
 
 Voor de Engelse spelling "Swiss" is kanton Zug de koploper. Dit komt waarschijnlijk doordat het bedrijven lokt met extra lage belastingen en veel hoofdkantoren er zich hebben gevestigd. De hekkensluiters worden gevormd door de periferie.
 
@@ -51,7 +51,7 @@ Voor "Schweiz" staan er logischerwijs Duitstalige kantons bovenaan en Franstalig
 | 25  | Vaud                  | 8       | 53     |
 | 26  | Geneva                | 6       | 30     |
 
-Voor "Suisse" is er een verrassing: Ticino, het Italiaans sprekende kanton, staat op nummer twee. Voor "Swiss" stonden ze ook al op plaats twee. Wellicht dat ze hier ook gunstige belastingregels hebben. Of ze zijn ze hier patriottischer dan in de rest van het land, of willen zich onderscheiden van hun Italiaanse buren.
+Voor "Suisse" is er een verrassing: Ticino, het Italiaans sprekende kanton, staat op nummer twee. Voor "Swiss" stonden ze ook al op plaats twee. Wellicht dat ze hier ook gunstige belastingregels hebben. Of ze zijn hier patriottischer dan in de rest van het land, of willen zich onderscheiden van hun Italiaanse buren.
 
 ![suisse](assets/switzerbrand-3.svg)
 
@@ -65,7 +65,7 @@ Voor "Suisse" is er een verrassing: Ticino, het Italiaans sprekende kanton, staa
 | 25  | Glarus   | 17      | 6      |
 | 26  | Obwalden | 16      | 7      |
 
-Ticino staat hier weinig verrassend op de eerste plaats. In de rest van het land is er weinig belangstelling voor de Italiaanse spelling: buiten Ticino zijn er slechts 26 bedrijven met "Svizerra" in de naam.
+Ticino staat hier weinig verrassend op de eerste plaats. In de rest van het land is er weinig belangstelling voor de Italiaanse spelling: buiten Ticino zijn er slechts 26 bedrijven met "Svizzera" in de naam.
 
 ![svizzera](assets/switzerbrand-4.svg)
 
@@ -93,7 +93,7 @@ Ticino staat hier weinig verrassend op de eerste plaats. In de rest van het land
 | 25  | Fribourg              | 1       | 2      |
 | 26  | Appenzell Innerrhoden | 0       | 0      |
 
-De grote vraag is nu natuurlijk: hoe vergelijkt Zwitserland met andere Europese landen. Is Zwitserland nu uitzonderlijk trots op hun naam? Of worden de statistieken gedomineerd door internationale bedrijven die ook een vestiging in het land hebben? Wellicht probeer ik nog een keer deze cijfers te vinden.
+De grote vraag is nu natuurlijk: hoe vergelijkt Zwitserland met andere Europese landen? Is Zwitserland uitzonderlijk trots op hun naam? Of worden de statistieken gedomineerd door internationale bedrijven die ook een vestiging in het land hebben? Wellicht probeer ik nog een keer deze cijfers te vinden.
 
 ---
 

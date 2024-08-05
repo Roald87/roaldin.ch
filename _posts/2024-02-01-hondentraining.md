@@ -4,7 +4,7 @@ title: Hondentraining
 image: generated/hondentraining-1-500-952c6d6fe.webp
 ---
 
-Er zijn opvallend veel hondentrainveldjes in Zwitserland. In onze woonplaats met 20,000 inwoners weet ik zo al drie veldjes te vinden, zoals deze naast het station.
+Er zijn opvallend veel hondentrainingsveldjes in Zwitserland. In onze woonplaats met 20.000 inwoners weet ik er al drie te vinden, zoals deze naast het station.
 
 {% picture hondentraining-1.jpg --alt Hondenspeelplaats met verschillende hindernissen, waaronder een oranje tunnel en een schuine helling. Op de achtergrond zijn mensen en bomen zichtbaar. %}
 
