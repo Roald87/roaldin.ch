@@ -10,11 +10,11 @@ Op 1 augustus organiseren sommige boerderijen een brunch op hun erf[^2]. We ware
 
 We arriveerden met Zwitserse punctualiteit tien minuten voor de opening en parkeerden de auto in een weiland. Het deed I. denken aan vroeger toen ze paard reed en de auto ook vaak in een weiland werd geparkeerd.
 
-Nadat we een bandje hadden gekregen sloten we ons aan bij de wachtrij. Om ons heen hoorden we alleen Zwitsers-Duits. Blijkbaar was dit evenement echt iets voor de lokalen. Na nog geen minuut in de rij, ging het touw voor de ingang open en konden we het erf op. Kijk, wat een timing.
+Nadat we een bandje hadden gekregen, sloten we ons aan bij de wachtrij. Om ons heen hoorden we alleen Zwitsers-Duits. Blijkbaar was dit evenement echt iets voor de lokalen. Na nog geen minuut in de rij ging het touw voor de ingang open en konden we het erf op. Kijk, wat een timing.
 
 {% picture 1-augustus-brunch-2.jpg --alt Close-up foto van het toegangsbandje om de pols van de auteur met de tekst "Schweizer Bäuerinnen & Bauer 1 August brunch". %}
 
-De eerste ronde van het buffet bestond uit brood, waaronder zopf[^3], fruit, kaas, minikomkommertjes, allerlei vleesbeleg én rösti met spek en ei. We namen aan dat een groot deel van het eten van deze boerderij, of boerderijen in de buurt kwamen. Het was in ieder geval heerlijk. Na even twijfelen namen T. en ik een tweede bordje. Er stond immers nog een maaltijd op het programma.
+De eerste ronde van het buffet bestond uit brood, waaronder zopf[^3], fruit, kaas, minikomkommertjes, allerlei vleesbeleg én rösti met spek en ei. We namen aan dat een groot deel van het eten van deze boerderij, of boerderijen in de buurt, kwam. Het was in ieder geval heerlijk. Na even twijfelen namen T. en ik een tweede bordje. Er stond immers nog een maaltijd op het programma.
 
 In de loop van de ochtend druppelden er mensen binnen. Het was blijkbaar niet nodig om er op klokslag negen te zijn. Ook hoorden we steeds meer andere talen om ons heen.
 
