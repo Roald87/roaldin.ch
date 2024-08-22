@@ -4,7 +4,7 @@ title: Drinkwaterfonteintjes
 image: generated/drinkwaterfonteintjes-1-500-309f2108c.webp
 ---
 
-In elke Zwitserse stad of dorp vind je drinkwaterfonteintjes. Soms lijken ze decoratieve fonteinen, zoals hieronder, soms zien ze eruit als een drinkfonteintje. Voor alle fonteintjes geldt dat er drinkwater uitkomt, tenzij er een bordje "Kein Trinkwasser" bijstaat of ze op privéterrein staan. De bronnen op privéterrein zijn vaak voor dieren.
+In elke Zwitserse stad of dorp vind je drinkwaterfonteintjes. Soms lijken ze op decoratieve fonteinen, zoals hieronder, en soms zien ze eruit als een drinkfonteintje. Voor alle fonteintjes geldt dat er drinkwater uitkomt, tenzij er een bordje "Kein Trinkwasser" bijstaat of ze op privéterrein staan. De bronnen op privéterrein zijn vaak voor dieren.
 
 {% picture drinkwaterfonteintjes-1.jpg --alt Betonnen drinkfontein met een waterstraal dat in een grote bak wordt verzameld. %}
 
