@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gratis EditieNL
+title: Gratis: EditieNL
 image: generated/gratis-editienl-1-500-fdbef9c95.webp
 ---
 
