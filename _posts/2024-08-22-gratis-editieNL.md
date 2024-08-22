@@ -8,6 +8,6 @@ Het concept van gratis meenemen[^1] is nu ook een ding in Nederland.
 
 {% picture gratis-editienl-1.jpg --alt Twee witte kuipstoelen op een oprit met een bordje "gratis meenemen" %}
 
-Misschien zijn ze geïnspireerd op vakantie in Zwitserland of zijn het volgers van dit blog?
+Misschien zijn ze geïnspireerd door een vakantie in Zwitserland of zijn het volgers van dit blog?
 
 [^1]: <https://roaldin.ch/gratis>
