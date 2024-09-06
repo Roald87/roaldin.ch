@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Velopruefung
+title: Veloprüfung
 image:
 ---
 
