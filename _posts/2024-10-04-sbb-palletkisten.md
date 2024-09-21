@@ -10,4 +10,4 @@ Deze palletkist kwam ik tegen bij een bouwplaats waar de SBB volgens mij niets m
 
 Ik weet niet waarom deze SBB kisten zo populair zijn. Het lijkt een soort cult klassieker te zijn geworden--je kan namelijk ook miniatuur SBB-palletkistjes kopen.
 
-{% picture sbb-palletkisten-1.jpg %}
+{% picture sbb-palletkisten-1.jpg --alt Houten kist met metalen hoeken, gestapeld op een pallet, omgeven door gras en planten. %}
