@@ -12,6 +12,6 @@ De fietstest wordt elk jaar bij basisschoolleerlingen afgenomen. Eerst zijn er t
 
 De eerste stap in het examen is een fietscontrole: werken de remmen, het licht en zijn de banden in goede staat? Zo niet, dan vindt er al puntenaftrek plaats.
 
-Na de controle rijden de leerlingen een rondje door de stad. Hierbij komen ze langs een aantal lastige verkeerssituaties, waar ze juist moeten handelen. De agent keurt vanaf een afstand of de kinderen het goed doen.
+Na de controle rijden de leerlingen een rondje door de stad. Hierbij komen ze langs een aantal lastige verkeerssituaties, waar ze juist moeten handelen. Oom, of tante agent, keurt vanaf een afstand of de kinderen het goed doen.
 
 Degenen die te weinig punten overhouden, moeten het later opnieuw proberen.
