@@ -19,7 +19,7 @@ Niet alleen de kleuren zijn anders, ook de plaatjes verschillen van de Franse ve
 
 _De vier hoogste kaarten van een Zwitsers kaartenspel. Van links naar rechts de Sau (aas), König (koning), Ober (vrouw), Unter (boer). Von User:Plani / de:Benutzer:Plani - eigen werk, Gemeinfrei[^1]._
 
-Ik heb hier nog geen potje jas gespeeld, maar het feit dat de kaarten anders zijn lijkt me erg lastig.
+Ik heb hier nog geen potje jassen gespeeld, maar het feit dat de kaarten anders zijn lijkt me erg lastig.
 
 [^1]: <https://de.wikipedia.org/wiki/Jass>
 [^2]: <https://www.srf.ch/play/tv/sendung/samschtig-jass?id=58d32b9d-59fc-4026-9f7e-6ae7e841131e>
