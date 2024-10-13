@@ -15,7 +15,7 @@ _De vier kleuren van een kaartspel in Duitstalig Zwitserland. Bron: Von Jensche 
 
 Niet alleen de kleuren zijn anders, ook de plaatjes verschillen van de Franse versie waarmee we in Nederland spelen. Hier zijn de plaatjes Sau (aas), König (koning), Ober (vrouw), Unter (boer).
 
-{% picture jassen-2.jpeg %}
+{% picture jassen-2.jpeg --alt Vier traditionele speelkaarten met kleurrijke illustraties van figuren en symbolen, waaronder een zwaard en een beker. %}
 
 _De vier hoogste kaarten van een Zwitsers kaartenspel. Van links naar rechts de Sau (aas), König (koning), Ober (vrouw), Unter (boer). Von User:Plani / de:Benutzer:Plani - eigen werk, Gemeinfrei[^1]._
 
