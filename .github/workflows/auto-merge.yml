@@ -1,0 +1,26 @@
+name: Check and Merge PR
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once a day at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  check_pr_and_merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: Install PyGitHub
+        run: pip install PyGithub
+
+      - name: Run Python script to check if there are posts to merge with today's date
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python _tools/auto_merge/main.py
