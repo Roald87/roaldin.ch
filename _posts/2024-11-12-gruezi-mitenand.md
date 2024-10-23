@@ -4,10 +4,10 @@ title: Gruezi mitenand
 image:
 ---
 
-Als je meerdere mensen begroet, wordt er altijd een mitenand achter de grüezi geplakt. Gruezi mitenand betekent zoiets als hallo allemaal en het komt van miteinander, wat met elkaar betekent.
+Als je meerdere mensen begroet, voeg je altijd "mitenand" toe aan "grüezi". "Gruezi mitenand" betekent zoiets als "hallo allemaal" en komt van "miteinander", wat "met elkaar" betekent.
 
-Mitenand wordt niet met de andere begroetingen gebruikt[^1]. Bij hoi of sali wordt zäme (tezamen/allemaal) gebruikt.
+"Mitenand" wordt niet met andere begroetingen gebruikt[^1]. Bij "hoi" of "sali" gebruik je "zäme" (tezamen/allemaal).
 
-Het grappige is dat de mitenand/zäme soms verlaat wordt toegevoegd als de groeter in eerste instantie niet heeft gezien dat er meerdere personen zijn. De begroeting wordt dan grüezi ... mitenand.
+Het grappige is dat "mitenand/zäme" soms later wordt toegevoegd als de groeter eerst niet ziet dat er meerdere personen zijn. De begroeting wordt dan "grüezi ... mitenand".
 
 [^1]: <https://roaldin.ch/gruezi>
