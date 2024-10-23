@@ -1,4 +1,4 @@
-name: Check and Merge PR
+name: Merge PRs with today's posts
 
 on:
   schedule:

@@ -10,9 +10,9 @@ prs = repo.get_pulls(state='open')
 today = datetime.today().strftime('%Y-%m-%d')
 
 for pr in prs:
-    # Check if the markdown file exists
     files = pr.get_files()
     for file in files:
+        print(f"Checking file {file}")
         if file.filename.startswith('_posts/') and file.filename.endswith('.md'):
             post_date = file.filename.split('/')[1].split('-')[:3]
             post_date_str = '-'.join(post_date)
