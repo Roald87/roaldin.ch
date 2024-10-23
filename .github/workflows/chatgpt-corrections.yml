@@ -32,7 +32,7 @@ jobs:
 
       - name: Get all changed *.md file(s) in the _posts folder
         id: changed-markdown-files
-        uses: tj-actions/changed-files@v35
+        uses: tj-actions/changed-files@v45
         with:
           files: _posts/*.md
 
