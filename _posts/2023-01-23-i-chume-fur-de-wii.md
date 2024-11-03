@@ -17,4 +17,4 @@ Nog geen minuut later stopte de lift en de deuren gingen open. Er kwam een man u
 
 Had ik het toch goed verstaan.
 
-[^1]: <https://roaldin.ch/zwitserduits/>
+[^1]: <https://roaldin.ch/zwitserduits>

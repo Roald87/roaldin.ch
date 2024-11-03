@@ -15,4 +15,4 @@ Helaas had ik niet bedacht dat het pakket alleen wordt afgegeven als je het bedr
 
 Handig. Niet zo handig dat elke pakketdienst het weer anders doet. Je weet dus nooit precies waar je aan toe bent.
 
-[^1]: <https://roaldin.ch/douanekosten/>
+[^1]: <https://roaldin.ch/douanekosten>

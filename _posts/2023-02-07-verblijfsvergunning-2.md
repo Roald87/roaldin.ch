@@ -17,5 +17,5 @@ De volgende ochtend belde ik Kanton Aargau en kreeg een officiële bevestiging. 
 
 Gelukkig kon ik werk verrichten omdat ik kon inloggen op Windows. Echter, na de lunch werd ook deze geblokkeerd en was het moeilijk om nog iets te doen. Ik besloot om een kortere dag te maken en te trainen voor de lokale Limmatlauf[^2]. 🏃‍
 
-[^1]: <https://roaldin.ch/verblijfsvergunning/>
+[^1]: <https://roaldin.ch/verblijfsvergunning>
 [^2]: <https://badenerlimmatlauf.ch/>
