@@ -7,9 +7,11 @@
 name: Deploy Jekyll site to Pages
 
 on:
-  # Runs on pushes targeting the default branch
+  # Runs on both direct pushes and merges to the default branch
   push:
-    branches: ["main"]
+    branches:
+      - main
+      - "refs/heads/main"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
