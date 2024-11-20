@@ -9,10 +9,11 @@ name: Deploy Jekyll site to Pages
 on:
   # Runs on both direct pushes and merges to the default branch
   push:
-    branches:
-      - main
-      - "refs/heads/main"
-
+    branches: ["main"]
+  schedule:
+    # Runs once a day at 6:30 AM UTC, in case auto-merge.yaml merged something.
+    # Somehow that pipeline doesn't trigger this one.
+    - cron: "0 6 30 * *"
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
