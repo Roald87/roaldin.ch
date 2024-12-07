@@ -6,7 +6,7 @@ image: generated/migros-icetea-1-500-fcf8dd954.webp
 
 De Migros[^1] Ice Tea is een echte klassieker hier. Iedereen vind het lekker, het is goedkoop en heeft slechts enkele ingrediënten. Ook is het recept sinds de introductie in 1984 niet verandert.[^2]
 
-{% picture migros-icetea-1.webp %}
+{% picture migros-icetea-1.webp --alt Pak van zes kartonnen verpakkingen ijsthee met citroensmaak, elk 330 ml. %}
 
 Er is in Nederland volgens mij niet iets van vergelijkbare statuur. Nederlandse klassiekers zoals de Calvé pindakaas, of de appeltaartjes van de Albert Heijn, hebben trouwe volgelingen, maar komen niet in de buurt van de Ice Tea.
 
