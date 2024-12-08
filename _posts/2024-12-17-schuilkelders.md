@@ -14,8 +14,8 @@ Ons wooncomplex heeft 10 kamers. Daarom moeten we naar een publieke schuilkelder
 
 Ik heb wel een vermoeden waar een schuilkelder in onze buurt zit. Op deze foto zie je een trap die ergens naartoe leidt. Een publieke schuilkelder wellicht? Hopelijk komen we daar nooit achter.
 
-{% picture schuilkelders-1.jpg %}
+{% picture schuilkelders-1.jpg --alt Een trap naar beneden omgeven door een hekwerk, gelegen aan de rand van een trottoir naast een straat. %}
 
-{% picture schuilkelders-2.jpg %}
+{% picture schuilkelders-2.jpg --alt Ingang van een betonnen ondergrondse tunnel met het jaartal 1973 boven de ingang. %}
 
 [^1]: Schutzräume für die Bevölkerung, Bundesamt für Bevölkerungsschutz BABS, <https://www.babs.admin.ch/de/schutzraeume>
