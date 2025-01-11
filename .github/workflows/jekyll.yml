@@ -14,6 +14,8 @@ on:
     # Runs once a day at 6:30 AM UTC, in case auto-merge.yaml merged something.
     # Somehow that pipeline doesn't trigger this one.
     - cron: "30 6 * * *"
+  pull_request:
+    branches: ["main"]
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
