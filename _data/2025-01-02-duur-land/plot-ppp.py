@@ -123,4 +123,4 @@ if __name__ == '__main__':
         title=None,
     )
 
-    chart.save("ppp-ratio-ch-nl.svg")
+    chart.save("duur-land-1.svg", scale_factor=1.5)
