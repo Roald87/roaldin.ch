@@ -10,5 +10,5 @@ Opvallend is dat ze vaak in dikke bakken rijden, zoals de nieuwste AMG Mercedess
 
 De luide auto's zijn niet altijd geliefd bij omwonenden. In een naburige gemeente proberen ze de hangjongeren te weren bij het wegrestaurant door parkeergeld te rekenen als je er langer dan twee uur bent.
 
-{% picture auto-patsers-1.jpg %}
+{% picture auto-patsers-1.jpg --alt Krantenartikel met de kop Auf Raststätte gibts jetzt Kontrollen en een afbeelding van een auto bij een controlepunt met rook op de achtergrond. %}
 _Hopelijk geen lawaai meer van patsers nu er parkeergeld moet worden betaald. Uit het lokale suffertje de Limmatwelle van donderdag 24 oktober._
