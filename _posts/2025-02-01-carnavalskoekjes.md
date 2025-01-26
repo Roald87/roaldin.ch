@@ -10,6 +10,6 @@ Deze gefrituurde dunne koekjes, bestrooid met poedersuiker, zijn een typische le
 
 Ik vind de koekjes niet heel bijzonder. Daarnaast eten ze ook onhandig, omdat ze na de eerste hap in meerdere stukjes breken. Drie sterren.
 
-{% picture carnavalskoekjes-1.jpeg %}
+{% picture carnavalskoekjes-1.jpeg --alt Een bord met een gefrituurde, met poedersuiker bestrooide lekkernij. %}
 
 [^1]: <https://de.wikipedia.org/wiki/Fasnachtskiechli>
