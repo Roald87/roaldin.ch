@@ -4,7 +4,7 @@ title: Chocolademelk
 image: generated/chocolademelk-1-500-12df9a970.webp
 ---
 
-{% picture chocolademelk-1.jpg %}
+{% picture chocolademelk-1.jpg --alt Zakjes Ovomaltine en Caotina Original chocoladedrankpoeder op een supermarktschap, met prijskaartjes van 25,90. %}
 
 "Ovo of Caotina?" is een veel gehoorde vraag. Persoonlijk verkies ik de zoetere Caotina boven de Ovomaltine als "heisse schoggi" (warme chocolade, oftewel chocolademelk).
 
