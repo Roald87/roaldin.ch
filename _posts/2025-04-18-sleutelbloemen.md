@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sleutelbloemen
-image: #generated/
+image: generated/sleutelbloemen-1-500-eea0e4a62.webp
 ---
 
 Een vriend van de blog, H., wees me erop dat er nu massaal sleutelbloemen bloeien. Ik had ze ook gezien, maar me niet gerealiseerd dat ik ze in Nederland minder vaak zag. Daar zag ik vooral narcissen en sneeuwklokjes.
