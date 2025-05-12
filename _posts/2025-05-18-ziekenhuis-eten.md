@@ -4,7 +4,7 @@ title: Ziekenhuis eten
 image:
 ---
 
-Het eten in de ziekenhuizen hier schijnt heel goed te zijn. Gelukkig heb ik het zelf nog niet meegemaakt.
+Het eten in de ziekenhuizen hier schijnt heel goed te zijn. Gelukkig heb ik het zelf nog niet hoeven ervaren.
 
 Een kennis vertelde dat het eten zo goed smaakte dat ze wel een dagje extra in het ziekenhuis wilde blijven. Dat heb ik in Nederland nog nooit iemand horen zeggen.
 
