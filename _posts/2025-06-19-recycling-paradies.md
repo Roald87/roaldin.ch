@@ -8,13 +8,13 @@ Vorige week kregen we een uitnodiging in de bus van het recyling paradies hier o
 
 Met wat oud karton en papier op de steekkar gingen we die kant op. Het was druk bij het afvalstation. Er werd druk gerecycled en buiten stond een springkussen.
 
-{% picture recycling-paradies-1.jpg %}
+{% picture recycling-paradies-1.jpg --alt Een groen gebouw met een groot openstaande deur, waar auto's naar binnen rijden. Mensen staan buiten onder een groene tent. Boven de deur hangt een bord met de tekst Recycling Center. %}
 
 Binnen hadden ze een hoekje afgezet waar tafels en stoelen stonden met chips en fris, er was een draaimolen én natuurlijk de ijscokraam.
 
 We waren even bang dat we geen ijsje zouden krijgen omdat we de coupon waren vergeten. Dat was gelukkig geen probleem. We kozen allebei een hoorntje: I. met aardbeien en ik vanille. Verrassend was dat ze softijs hadden. Dat had ik hier nog niet eerder gezien.
 
-{% picture recycling-paradies-2.jpg %}
+{% picture recycling-paradies-2.jpg --alt Een recyclingcentrum met mensen die boeken en andere items sorteren. Er zijn groene containers en planken met boeken. %}
 
 We begonnen aan ons ijsje, toen I. ineens collega P spotte. P kende een van de oprichters van het recycling paradies en was opgetrommeld als vrijwilliger. Hij hield een oogje in het zeil bij het springkussen.
 
