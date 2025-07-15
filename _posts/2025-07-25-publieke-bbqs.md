@@ -8,7 +8,7 @@ Op veel plekken in het bos of langs wandelroutes vind je publieke barbecues en k
 
 Voor hout of kolen moet meestal zelf worden gezorgd. Al zijn er uitzonderingen, zoals deze barbecue bij ons in de buurt. Hier zorgt de gemeente ervoor dat er een voorraad hout beschikbaar is. Al is deze in de zomer vaak leeg.
 
-{% picture publieke-bbqs-1.jpg %}
+{% picture publieke-bbqs-1.jpg --alt Een zonnig pad met schaduw van een persoon, omgeven door groene bomen en struiken. Rechts staat een geel elektriciteitshuisje tegen een met klimop begroeide muur. %}
 _Link de barbecue met een, momenteel leeg, hok voor het hout. Rechts de publieke WC._
 
 Vorig jaar is er op deze locatie zelfs een openbaar toilet geplaatst.
