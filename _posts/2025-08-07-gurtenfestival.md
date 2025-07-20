@@ -10,7 +10,7 @@ Er waren drie verschillende toegangswegen om het festivalterrein op de bergtop t
 
 De sfeer op het festival was gemoedelijk, het publiek was Zwitsers enthousiast en het uitzicht vanaf de berg was prachtig.
 
-{% picture gurtenfestival-1.jpg %}
+{% picture gurtenfestival-1.jpg --alt Mensen lopen over een heuvel naar een festivalterrein met witte tenten en kleurrijke kraampjes, tegen een achtergrond van een uitgestrekt landschap en blauwe lucht. %}
 _Uitzicht vanaf het festivalterrein. In de verte zijn de Alpen te zien. Op de foto vallen ze wat klein uit._
 
 Opvallend was dat er weinig afval op de grond lag. Dit kwam gedeeltelijk doordat er op de bekers, flesjes én de borden en vorken statiegeld zat. Bij inleveren werd het statiegeld teruggestort op je festivalbetaalpas. Het overgebleven geld van de pas wordt automatisch teruggeboekt op je rekening.
