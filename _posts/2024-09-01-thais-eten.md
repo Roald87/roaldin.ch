@@ -24,6 +24,9 @@ _Vergelijking tussen de populariteit van partnernationaliteiten tussen Zwitserse
 Enkele Thaise vrouwen zijn over de jaren hun eigen restaurant of cateringservice begonnen. Daarom vind je in elk dorp of stad een Thais restaurant.
 
 [^1]: <https://nl.wikipedia.org/wiki/Chinees-Indisch_restaurant>
+
 [^2]: Heiraten nach gegenseitiger Staatsangehörigkeit vor der Heirat, 1987-2020, Bundesamt für Statistik, <https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken.assetdetail.17444335.html>
+
 [^3]: Hierin zijn huwelijken tussen twee Zwitsers buiten beschouwing gelaten. Dit is natuurlijk het populairst bij mannen en vrouwen.
+
 [^4]: De code om de grafieken te reproduceren vind je hier: <https://github.com/Roald87/bi-national-marriages-switzerland>

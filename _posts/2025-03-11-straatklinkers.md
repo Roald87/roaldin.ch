@@ -19,4 +19,5 @@ De straat voor dit nieuwe huis moest worden opgebroken en is daarna weer opgevul
 Dan zijn die handgemaakte ambachtelijke Nederlandse straten zo gek nog niet.
 
 [^1]: Zoesklöt, Henk Ruiter, 4 juni 2024, <https://www.zoesklot.nl/zwitserland-3/>
+
 [^2]: Not Just Bikes, Natural Handcrafted Artisanal ... Streets?!, 9 februari 2025, <https://www.youtube.com/watch?v=Cq1kV6V_jvI>

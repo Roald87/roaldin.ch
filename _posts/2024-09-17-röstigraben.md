@@ -19,4 +19,5 @@ _Stemgedrag tijdens referenda en initiatieven van 1981 tot 2024. De plek in de g
 De Röstigraben is vergelijkbaar met boven/onder de rivieren in Nederland, al zijn de verschillen in Nederland kleiner dan aan weerzijde van de Röstigraben.
 
 [^1]: <https://de.wikipedia.org/wiki/R%C3%B6stigraben>
+
 [^2]: <https://www.predikon.ch/en/voting-patterns/nonlinear/>

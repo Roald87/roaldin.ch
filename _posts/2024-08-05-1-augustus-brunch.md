@@ -26,6 +26,9 @@ Na vier borden hielden we het voor gezien. Een geslaagde 1 augustus.
 _Links het buffet en rechts de partytenten tegen de regen van eerder die ochtend._
 
 [^1]: <https://roaldin.ch/1-augustus>
+
 [^2]: <https://www.swiss-farmers.ch/experience-a-farm/on-the-farm/1st-august-farm-brunch/>
+
 [^3]: <https://en.wikipedia.org/wiki/Zopf>
+
 [^4]: Älpermagronen is pasta met aardappels, room en kaas. Het wordt vaak geserveerd met gebakken uitjes en appelmoes. <https://en.wikipedia.org/wiki/%C3%84lplermagronen>

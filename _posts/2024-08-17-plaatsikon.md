@@ -47,4 +47,5 @@ _-wil komt 283 keer voor._
 Voor de etymologie van overige uitgangen, zie de Aargauer Zeitung[^1]. De code om de grafieken te genereren staat op GitHub[^2].
 
 [^1]: Fast alle Freiämter Ortsnamen sind alemannisch: Was es mit «-ikon» und «-wil» auf sich hat, Andrea Weibel, 2 september 2018, <https://www.aargauerzeitung.ch/aargau/freiamt/fast-alle-freiamter-ortsnamen-sind-alemannisch-was-es-mit-ikon-und-wil-auf-sich-hat-ld.1526719>
+
 [^2]: <https://github.com/Roald87/citykon>

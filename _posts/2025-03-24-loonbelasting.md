@@ -35,7 +35,11 @@ In Nederland zou een equivalent bruto salaris ongeveer €53.000 zijn[^4], waaro
 Dat is een aanzienlijk verschil, maar veel dingen lijken hier goed geregeld. Hoe ze dat doen, weet ik niet. Dat is voer voor een mogelijk toekomstig stukje.
 
 [^1]: <https://www.bsv.admin.ch/bsv/de/home/sozialversicherungen/ueberblick/beitraege.html>
+
 [^2]: Tarif für die Einkommenssteuer 2024, <https://www.ag.ch/media/kanton-aargau/dfr/dokumente/steuern/natuerliche-personen/steuerberechnung-tarife-natuerliche-personen/einkommenssteuertarif-2024.pdf>
+
 [^3]: Steuertarife zur direkten Bundessteuer DBST, <https://www.estv.admin.ch/estv/de/home/direkte-bundessteuer/dbst-steuertarife.html>
+
 [^4]: List of countries by price level, <https://en.wikipedia.org/wiki/List_of_countries_by_price_level>
+
 [^5]: Hoeveel inkomstenbelasting moet ik betalen? <https://www.belastingdienst.nl/wps/wcm/connect/nl/werk-en-inkomen/content/hoeveel-inkomstenbelasting-betalen>

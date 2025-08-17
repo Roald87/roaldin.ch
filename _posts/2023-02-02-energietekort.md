@@ -24,5 +24,7 @@ Ook op het werk kregen we hierover mails. We werden verzocht om energie-intensie
 De laatste tijd hoor ik er weinig meer over. De relatief zachte winter, gecombineerd met gasleveringen uit andere landen, heeft de crisis voorlopig uitgesteld. Of zou men massaal zijn overgeschakeld op brandhout[^3]?
 
 [^1]: <https://www.energieinnederland.nl/feiten-en-cijfers/energieincijfers/>
+
 [^2]: <https://www.eda.admin.ch/aboutswitzerland/en/home/wirtschaft/energie/energie---fakten-und-zahlen.html>
+
 [^3]: <https://roaldin.ch/brandhout>

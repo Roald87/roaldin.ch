@@ -1,27 +1,24 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en" dir="ltr">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta charset="UTF-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" >
     {% unless page.image %}
-    <meta property="og:image" content="{{ site.url}}{{ site.meta_image }}" />
+    <meta property="og:image" content="{{ site.url}}{{ site.meta_image }}" >
     {% endunless %}
-    <title>
-      {% if page.title != "" %} {{ page.title }} | {% endif %} {{ site.title }}
-    </title>
     <link
       rel="icon"
       href="{{ site.baseurl }}/assets/favicon.ico"
       type="image/x-icon"
-    />
+    >
     <link
       href="{{ site.baseurl }}/feed.xml"
       rel="alternate"
       type="application/atom+xml"
-    />
-    <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}" />
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css" />
+    >
+    <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}" >
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css" >
     <script
       src="https://beamanalytics.b-cdn.net/beam.min.js"
       data-token="cb146bf2-0a6b-412a-93fe-f1b766a68e80"
@@ -31,20 +28,26 @@
       rel="apple-touch-icon"
       sizes="180x180"
       href="{{ site.baseurl }}/assets/apple-touch-icon.png"
-    />
+    >
     <link
       rel="icon"
       type="image/png"
       sizes="32x32"
       href="{{ site.baseurl }}/assets/favicon-32x32.png"
-    />
+    >
     <link
       rel="icon"
       type="image/png"
       sizes="16x16"
       href="{{ site.baseurl }}/assets/favicon-16x16.png"
-    />
-    <link rel="manifest" href="/site.webmanifest" />
-    {% seo %}
+    >
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ctext%20y='.9em'%20font-size='90'%3E🇨🇭%3C/text%3E%3C/svg%3E"
+    >
+    <link rel="manifest" href="/site.webmanifest" >
+    {% capture seo_tag_output %}
+      {% seo %}
+    {% endcapture %}
+    {{ seo_tag_output | replace: " />", ">" }}
   </head>
-</html>

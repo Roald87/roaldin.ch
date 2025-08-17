@@ -17,4 +17,5 @@ Er zijn ook regionale feestdagen. In Zürich zijn er bijvoorbeeld Knabenschiesse
 T.'s fietstocht viel uiteindelijk een beetje tegen. Toch had ik het niet erg gevonden om deze mooie dag buiten door te brengen.
 
 [^1]: <https://de.wikipedia.org/wiki/Feiertage_in_der_Schweiz>
+
 [^2]: <https://roaldin.ch/2-januari>

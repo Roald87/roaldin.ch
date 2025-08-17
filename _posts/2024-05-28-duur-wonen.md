@@ -11,5 +11,7 @@ De reden voor het woningtekort momenteel wordt toegeschreven aan bevolkingsgroei
 De oplossing is voor beide landen hetzelfde: landbouwgrond inwisselen voor woningen.
 
 [^1]: NOS, Nederlanders geven relatief groot deel van inkomen uit aan woonlasten, 28 mei 2024, <https://nos.nl/artikel/2522154-nederlanders-geven-relatief-groot-deel-van-inkomen-uit-aan-woonlasten>
+
 [^2]: SRF, Wohnungsnot: Ein altes Problem weitet sich aus, 27 mei 2024, <https://www.srf.ch/news/schweiz/wohnen-kaum-mehr-bezahlbar-wohnungsnot-ein-altes-problem-weitet-sich-aus>
+
 [^3]: <https://www.eda.admin.ch/aboutswitzerland/en/home/umwelt/geografie/geografie---fakten-und-zahlen.html>

@@ -15,6 +15,9 @@ Ze zijn ook bekend in Nederland als buikmannen,[^2] al heb ik ze daar nog nooit 
 Het brood is vrij zacht, wit en licht zoet. Soms houden de grittibänz iets vast, zoals een chocoladestaaf, pijp of een dennentak.
 
 [^1]: <https://de.wikipedia.org/wiki/Stutenkerl>
+
 [^2]: <https://nl.wikipedia.org/wiki/Buikman>
+
 [^3]: De Zwitserse Sinterklaas heet hier overigens Samichlaus en wordt gevierd op 6 december. Misschien iets voor een toekomstig stukje.
+
 [^4]: <https://www.atlas-alltagssprache.de/runde-7/f01b/>

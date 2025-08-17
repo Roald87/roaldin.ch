@@ -22,4 +22,5 @@ _De vier hoogste kaarten van een Zwitsers kaartenspel. Van links naar rechts de 
 Ik heb hier nog geen potje jassen gespeeld, maar het feit dat de kaarten anders zijn lijkt me erg lastig.
 
 [^1]: <https://de.wikipedia.org/wiki/Jass>
+
 [^2]: <https://www.srf.ch/play/tv/sendung/samschtig-jass?id=58d32b9d-59fc-4026-9f7e-6ae7e841131e>

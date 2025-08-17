@@ -22,4 +22,5 @@ Naast de gesproken vorm wordt Zwitserduits ook gebruikt voor informele geschreve
 Mijn vriendin I. is er in ieder geval groot fan van, omdat het allemaal niet zo nauw komt met al die naamvallen en spelling. Bovendien, als je iets verkeerd zegt, dan is er vast wel een regio waar ze het wel zo spellen of uitspreken.
 
 [^1]: <https://nl.wikipedia.org/wiki/Zwitserduits>
+
 [^2]: <https://www.kleinersprachatlas.ch/karte-15-apfel>

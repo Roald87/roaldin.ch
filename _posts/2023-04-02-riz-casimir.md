@@ -17,5 +17,7 @@ Een korte vertaalde beschrijving van dit gerecht van tasteatlas.com[^3]:
 Eet smakelijk!
 
 [^1]: <https://de.m.wikipedia.org/wiki/Älplermagronen>
+
 [^2]: <https://www.tasteatlas.com/worst-rated-dishes-in-the-world>
+
 [^3]: <https://www.tasteatlas.com/riz-casimir>

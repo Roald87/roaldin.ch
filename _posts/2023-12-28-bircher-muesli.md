@@ -17,5 +17,7 @@ Hij geloofde dat rauw en vegetarisch voedsel beter voor mensen zou zijn. Om dit 
 Tegenwoordig wordt Bircher-muesli ook vaak met yoghurt of melk gemaakt. Wellicht door een lobby van (Swiss) Big Milk[^3]?
 
 [^1]: Wolff, Eberhard (2010). A new way of living: Maximilian Bircher-Benner (1867-1939). Karger Gazette, (71):11-12. <https://www.zora.uzh.ch/id/eprint/40410/1/Wolff_Bircher-Benner.pdf>
+
 [^2]: <https://en.wikipedia.org/wiki/Maximilian_Bircher-Benner>
+
 [^3]: <https://www.swissmilk.ch/de/rezepte-kochideen/rezepte/LM200806_89/birchermueesli/>

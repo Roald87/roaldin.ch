@@ -19,4 +19,5 @@ Een grappig detail is dat de vragenlijst in een stuk of tien talen beschikbaar i
 Het onderzoek wordt uitgevoerd om vervolgens te worden gebruikt bij politieke beslissingen. Op deze manier wordt er toch nog een beetje rekening met ons gehouden - we mogen namelijk niet stemmen.
 
 [^1]: <https://www.fedlex.admin.ch/eli/cc/2007/869/de>
+
 [^2]: <https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/erhebungen/se/befragte-personen-ecensus/faq.html>

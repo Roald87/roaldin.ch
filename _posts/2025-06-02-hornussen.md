@@ -13,4 +13,5 @@ In het veld staat de tegenpartij, die met houten protestborden de "Nouss" probee
 Hoe dit eruitziet, kun je zien in deze video[^2].
 
 [^1]: <https://de.wikipedia.org/wiki/Hornussen_(Sport)>
+
 [^2]: <https://youtu.be/_7Yu2x6pnu4>

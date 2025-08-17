@@ -13,5 +13,7 @@ Er is een tas voor glas, PET en blik. De drie tassen hebben klittenband aan de b
 Met deze aanschaf hebben wij denk ik weer een paar inburgeringspunten verdiend.
 
 [^1]: <https://roaldin.ch/oudpapier>
+
 [^2]: <https://roaldin.ch/afvalzakken>
+
 [^3]: <https://roaldin.ch/oud-papier-2>

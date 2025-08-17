@@ -10,6 +10,9 @@ Referenda worden opgespaard en zo'n vier keer per jaar wordt er gestemd. De keuz
 I. en ik mogen hier niet stemmen. Dat mogen alleen degenen met een Zwitsers paspoort. Er zijn wel ideeën om buitenlanders met een langdurige verblijfsvergunning over lokale zaken te laten stemmen. Maar voorlopig mogen wij alleen stemmen over EU-zaken en Nederlandse landelijke politiek.
 
 [^1]: <https://swissvotes.ch/vote/647.00>
+
 [^2]: <https://swissvotes.ch/vote/107.10>
+
 [^3]: <https://swissvotes.ch/vote/74.00>
+
 [^4]: <https://swissvotes.ch/votes>
