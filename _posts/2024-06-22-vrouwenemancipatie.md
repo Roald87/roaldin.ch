@@ -17,4 +17,5 @@ Een klein voordeel hadden de vrouwen tot begin dit jaar wel: ze mochten met 64 m
 Tot slot hebben ze geen dienstplicht. Al zijn er wel regelmatig discussies of dit moet veranderen.
 
 [^1]: <https://nl.m.wikipedia.org/wiki/Vrouwenstemrecht_in_Zwitserland>
+
 [^2]: <https://ourworldindata.org/female-labor-supply>

@@ -20,4 +20,5 @@ Ook voor recreatief gebruik zijn de boten populair. Langs veel rivieren zie je l
 Collega R.'s vader meldde zich op zijn twintigste aan voor een ligplaats in Schaffhausen. Ruim 30 jaar later staat hij er nog steeds op.
 
 [^1]: <https://de.m.wikipedia.org/wiki/Pontoniersport>
+
 [^2]: <https://nl.wikipedia.org/wiki/Ponton>

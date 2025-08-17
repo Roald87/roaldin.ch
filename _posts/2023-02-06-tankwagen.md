@@ -19,4 +19,5 @@ In Nederland heb ik dit nog nooit gezien. Nederland is natuurlijk een ander verh
 Gas is milieuvriendelijker dan kolen en olie, maar ook niet zonder risico, blijkt nu[^2].
 
 [^1]: <https://roaldin.ch/brandhout>
+
 [^2]: <https://www.trouw.nl/duurzaamheid-economie/koken-op-gas-leidt-tot-ongezonde-lucht-in-huis-een-blinde-vlek-volgens-onderzoekers~b4724db9/>

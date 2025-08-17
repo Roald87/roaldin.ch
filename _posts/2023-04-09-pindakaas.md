@@ -17,4 +17,5 @@ Ik heb een tijdje zelf pindakaas gemaakt in een keukenmachine. Dit ging best goe
 We namen daarom vaak een paar kilopotten 100% pindakaas mee uit Nederland. Gelukkig is dit tegenwoordig niet meer nodig. Dankzij de gezondheids- en fitness-trends is er nu een hele goede 100-procenter[^2] te koop bij 'onze' supermarkt.
 
 [^1]: <https://roaldin.ch/brood>
+
 [^2]: <https://www.coop.ch/en/food/inventories/spreads/other-sweet-spreads/nu3-peanut-butter/p/6548145>

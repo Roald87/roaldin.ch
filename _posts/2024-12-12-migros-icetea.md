@@ -13,6 +13,9 @@ In Nederland is er volgens mij niets van vergelijkbare statuur. Nederlandse klas
 Calvé pindakaas heeft op het moment van schrijven 9100 volgers op Facebook[^3], terwijl Migros Ice Tea er 103.000 heeft[^4]. Enkele jaren geleden verkocht Migros zelfs handdoeken, tassen en t-shirts van de Ice Tea. Dat zie ik bij Calvé nog niet zo snel gebeuren.
 
 [^1]: Een van de twee grote supermarkten in Zwitserland.
+
 [^2]: Wie kamen Sie auf die Idee des Kult Ice Teas?, Silvia Schütz, 25 mei 2024, <https://corporate.migros.ch/de/story/kult-ice-tea>
+
 [^3]: <https://www.facebook.com/p/Calv%C3%A9-Pindakaas-100063898631819/>
+
 [^4]: <https://www.facebook.com/MigrosIceTea>

@@ -11,6 +11,9 @@ Deze foto nam ik op de gang van mijn werk. Links zie je een recyclingbak voor bl
 Wat wel apart is, is dat deze bakken alleen op een paar uithoeken in het gebouw staan. In de centrale hal, waar bijvoorbeeld ook het restaurant is, zijn dan weer geen containers.
 
 [^1]: https://roaldin.ch/oudpapier
+
 [^2]: https://roaldin.ch/afvalzakken
+
 [^3]: https://roaldin.ch/oud-papier-2
+
 [^4]: https://roaldin.ch/recycling

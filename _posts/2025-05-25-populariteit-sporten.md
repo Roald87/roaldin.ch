@@ -34,5 +34,7 @@ Als mensen mij deze vraag in de toekomst weer stellen, heb ik het antwoord paraa
 Nu nog een naam voor deze nieuwe index. De NOS-SRF sportindex of de staatsomroep sportindex?
 
 [^1]: Banner van <https://nos.nl/sport>
+
 [^2]: Banner van <https://srf.ch/sport>
+
 [^3]: Een index van de Economist om prijsverschillen tussen landen te vergelijken. <https://www.economist.com/interactive/big-mac-index>

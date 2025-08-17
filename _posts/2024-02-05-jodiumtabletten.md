@@ -20,4 +20,5 @@ Recent is er een beleidsverandering geweest. De tabletten kregen we ineens per p
 Eigenlijk wel apart dat ze dat vroeger niet deden. Dit lijkt mij een stuk makkelijker. Vooruitgang!
 
 [^1]: <https://ourworldindata.org/energy/country/switzerland>
+
 [^2]: <https://www.bfe.admin.ch/bfe/en/home/supply/nuclear-energy/emergency-protection.html>

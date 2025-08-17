@@ -17,4 +17,5 @@ In Duitsland gebruikt men in boeken de naar binnen wijzende guillemets. In krant
 De Zwitsers doen het weer net even anders dan hun naaste buren. Zou het, net als met de missende komma, een manier zijn om buitenlanders te herkennen?[^2]
 
 [^1]: <https://en.wikipedia.org/wiki/Guillemet>
+
 [^2]: <https://roaldin.ch/komma>

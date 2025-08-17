@@ -23,6 +23,9 @@ Daarnaast duurt het lang voordat je een Zwitsers paspoort kunt aanvragen. Je moe
 Tenslotte is een EU-paspoort hebben ook niet verkeerd. Je kunt immers makkelijk werken en wonen in een ander EU-land. Mede daarom overweeg ik het voorlopig nog niet.
 
 [^1]: <https://www.ch-info.swiss/de/edition-2024/die-schweiz/fakten1>
+
 [^2]: <https://opendata.cbs.nl/statline/#/CBS/nl/dataset/03743/table?fromstatweb>
+
 [^3]: Zusammensetzung der ausländischen Bevölkerung, <https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/migration-integration/auslaendische-bevoelkerung/zusammensetzung.html>
+
 [^4]: <https://www.ch.ch/de/auslander-in-der-schweiz/einburgerung/#ordentliche-einburgerung>

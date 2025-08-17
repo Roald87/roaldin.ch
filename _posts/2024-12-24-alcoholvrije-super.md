@@ -15,4 +15,5 @@ Het verbod heeft de tand des tijds doorstaan en is nu onderdeel van het imago. E
 Helemaal alcoholvrij is de supermarktketen overigens niet. Wie alcohol of tabak wil, kan terecht bij de kleine zusteronderneming Denner of de Migrolino, een AH to go-equivalent.
 
 [^1]: <https://en.wikipedia.org/wiki/Migros>
+
 [^2]: Die Genossenschaftsmitglieder haben entschieden: Migros-Filialen bleiben schweizweit alkoholfrei, 16 juni 2022, <https://corporate.migros.ch/de/news/alkohol-abstimmung-resultate>

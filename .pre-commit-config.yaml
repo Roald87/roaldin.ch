@@ -5,10 +5,13 @@ repos:
       - id: trailing-whitespace
       - id: end-of-file-fixer
       - id: check-yaml
-  - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: v4.0.0-alpha.8
+  - repo: https://github.com/rbubley/mirrors-prettier
+    rev: v3.6.1
     hooks:
       - id: prettier
         additional_dependencies:
-          - prettier@2.7.1
+          - prettier@3.6.1
           - "@shopify/prettier-plugin-liquid"
+          - "@awmottaz/prettier-plugin-void-html@v1.9.0" # prevents <meta charset="UTF-8" > -> <meta charset="UTF-8" /> cant get it to work
+        # these pre-commits add </html> at the end of head.html that should be incomplete html files
+        exclude: \.html$

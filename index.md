@@ -21,7 +21,7 @@ Sommige dingen vallen pas op als je er als buitenstaander naar kijkt. Met enige 
       <li>
         <span>
           <i>
-            <time datetime="{{ post.date | date: "%Y-%m-%d" }}" pubdate="">
+            <time datetime="{{ post.date | date: "%Y-%m-%d" }}" >
               {{ post.date | date: "%b %-d, %Y" }}
             </time>
           </i>

@@ -17,4 +17,5 @@ Bij schwingen zijn er geen gewichtsklassen. De deelnemers zijn daarom vaak grote
 De sport is voornamelijk op het platteland in centraal Zwitserland populair. In de steden krijgen wij er, behalve via de krant en op de nationale TV, minder van mee.
 
 [^1]: <https://de.wikipedia.org/wiki/Schwingen>
+
 [^2]: <https://nl.wikipedia.org/wiki/Swingen_(partnerruil)>
