@@ -14,7 +14,7 @@ De populariteit van de kleine stepjes werd duidelijk toen ik ontdekte dat ze een
 
 De populariteit van de micro's onder kinderen is goed te zien bij scholen. Soms staan er speciale rekken om de stepjes te parkeren.
 
-{% picture tweewielers-1.png --alt Rij van elektrische scooters geparkeerd tegen een grijze muur. %}
+{% picture tweewielers-1.png --alt Rij van stepjes geparkeerd tegen een grijze muur. %}
 _Geparkeerde micro stepjes bij een school. Foto van Adrian Michael - eigen werk, CC BY-SA 4.0._
 
 [^1]: <https://roaldin.ch/stepje>
