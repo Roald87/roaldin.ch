@@ -6,7 +6,7 @@ image: generated/tweewielers-1-500-4f04ada7e.webp
 
 Veel tweewielers hebben een Zwitser-Duitse naam. Een scooter heet een "roller", een brommer een "töffli" en een motor is een "töff". De "-li" is een verkleinwoord.
 
-Er zijn ook steps. Modellen met grotere banden heten "trottinett(e)" of "trotti". Deze kun je soms huren op een berg om er mee naar beneden te racen.
+Er zijn ook steps. Modellen met grotere banden heten "trottinett(e)" of "trotti". Deze kun je soms huren op een berg om ermee naar beneden te racen.
 
 De begeerde stepjes met kleine wieltjes[^1] heten "micro's", naar de merknaam. Ze worden ook wel "mini-klaproller" of "microscooter" genoemd.
 
