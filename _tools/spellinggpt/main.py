@@ -17,9 +17,7 @@ def spellcheck(text: str) -> str:
         model="gpt-4o",
         messages=[
             system("Je bent een editor en corrigeert de spelling, grammatica en interpunctie van teksten. "
-                   "Daarnaast probeer je ook de flow van de tekst te verbeteren. "
-                   "Verander zinnen die niet goed op elkaar aansluiten. "
-                   "Probeer zinnen zo kort mogelijk te maken en probeer lange zinnen op te breken."
+                   "Je verandert niets aan de stijl of toon van de tekst, tenzij er duidelijke fouten zijn. "
                    "Je behoud markdown opmaak en je verandert en verwijdert geen yaml front matter, die aan het begin van elk bestand staat. "
                    "Reageer alleen met de veranderde tekst met daarboven de originele yaml front matter."),
             user(text)
