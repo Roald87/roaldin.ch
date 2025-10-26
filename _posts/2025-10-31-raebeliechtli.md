@@ -9,12 +9,12 @@ In Nederland is het binnenkort tijd voor St. Maarten. Hier wordt dat niet gevier
 Räbeliechtli zijn lampions die worden gemaakt uit stoppelknollen. Ze worden uitgehold en de buitenkant wordt versierd met patronen of figuurtjes.
 
 {%picture raebeliechtli-1.jpg %}
-_Räbeliechli, klaar voor de optocht. Foto van Peter Presslein._
+_Räbeliechtli, klaar voor de optocht. Foto van Peter Presslein._
 
 {%picture raebeliechtli-2.jpg %}
 _Stoppelknollen. Foto van Micha L. Rieser._
 
-De lampions worden vaak op school gemaakt en, afhankelijk van het dorp of stad, wordt er een optocht georganiseerd. Vaak gaat dan de straatverlichting tijdelijk uit zodat de lampions beter tot hun recht komen.
+De lampions worden vaak op school gemaakt en, afhankelijk van het dorp of de stad, wordt er een optocht georganiseerd. Vaak gaat dan de straatverlichting tijdelijk uit zodat de lampions beter tot hun recht komen.
 
 Zoals zoveel dingen in Zwitserland, hangt het van de gemeente af of, hoe en wanneer er een optocht georganiseerd wordt. Er is geen vaste datum voor zoals bij Sint Maarten.
 
