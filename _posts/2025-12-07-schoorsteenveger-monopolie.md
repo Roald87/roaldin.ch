@@ -3,6 +3,7 @@ layout: post
 title: Schoorsteenveger monopolie
 image:
 ---
+
 K. en J. vertelden dat ze laatst een schoorsteenveger hadden opgebeld voor een afspraak. Toen ze hun adres noemden, zei de veger dat zij buiten zijn gebied woonden.
 
 Zo leerden ze dat er in Zwitserland een schoorsteenvegermonopolie bestaat. In het monopoliemodel wijst elke gemeente een schoorsteenveger aan en legt de prijzen vast die ze kunnen vragen voor hun diensten.
