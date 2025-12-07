@@ -15,4 +15,5 @@ Door het eenwieler hockey moest ik denken aan die ene (enige?) keer dat ik hier 
 [^1]: Ja, dat is schijnbaar een sport. Daarnaast bestaat er ook een basketbalvariant <https://www.swiss-iuc.ch/Sportarten/Einrad/Hockey> en voetbal op een fiets <https://www.swiss-iuc.ch/Sportarten/Radball>.
 
 [^2]: https://www.swiss-iuc.ch/Wettkaempfe/Einradhockey/Resultate
+
 [^3]: https://en.wikipedia.org/wiki/Unicycle_hockey
