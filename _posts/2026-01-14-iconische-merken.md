@@ -38,7 +38,7 @@ De nationale spoorwegen van Nederland en Zwitserland. De Zwitsers zijn erg conte
 
 **PostNL = Post**
 
-De voorgangers van PostNL waren misschien geen cultmerken, maar wel een bedrijf waar je trots op kon zijn om voor te werken. Het huidige PostNL is daar geen schim meer van. De Post hier is qua merknaam en status vergelijkbaar met de oude Nederlandse postbedrijven.
+De voorgangers van PostNL waren misschien geen popcultuurmerken, maar wel een bedrijf waar je trots op kon zijn om voor te werken. Het huidige PostNL is daar geen schim meer van. De Post hier is qua merknaam en status vergelijkbaar met de oude Nederlandse postbedrijven.
 
 **ANWB = TCS**
 
