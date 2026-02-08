@@ -4,7 +4,7 @@ title: Iconische merken
 image:
 ---
 
-Elk land heeft merken die een bepaalde popcultuurstatus bereiken, zoals Tikkie of Buienradar. Hieronder heb ik geprobeerd Nederlandse popcultuurmerken te paren met hun Zwitserse equivalent. Met het aantal sterren geef ik aan hoe goed de match is en in hoeverre, mijns inziens, beide een zekere popcultuurstatus hebben bereikt.
+Elk land heeft merken die een bepaalde popcultuurstatus bereiken, zoals Tikkie of Buienradar. Hieronder heb ik[^3] geprobeerd Nederlandse popcultuurmerken te paren met hun Zwitserse equivalent. Met het aantal sterren geef ik aan hoe goed de match is en in hoeverre, mijns inziens, beide een zekere popcultuurstatus hebben bereikt.
 
 Naast dat deze lijst je een idee geeft van de popcultuurstatus, is het ook handig voor Nederlandse immigranten om snel de tegenhanger van veelgebruikte Nederlandse diensten in Zwitserland te vinden.
 
@@ -91,3 +91,5 @@ Beide verzekeringen waarbij hun reclameslogans als grap worden gebruikt nadat er
 [^1]: <https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-to-decide-again-on-introducing-electronic-id/89819712>
 
 [^2]: Er is geen Duitstalige lijst, maar Twint zou daar wel thuishoren. Tikkie staat wel op de Nederlandse: <https://nl.wikipedia.org/wiki/Lijst_van_merknamen_die_als_soortnaam_worden_gebruikt>
+
+[^3]: Dit stukje kwam tot stand met waardevolle bijdrages van de Flachländer I, J, K, T, S en H.
