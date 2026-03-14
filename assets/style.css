@@ -311,6 +311,14 @@ ul.discover-posts li small a {
   .helptext {
     color: #aaa;
   }
+
+  img[src$=".svg"] {
+    filter: invert(1) hue-rotate(180deg);
+  }
+
+  img[src$=".svg"].no-invert {
+    filter: none;
+  }
 }
 
 ul.blog-posts {
