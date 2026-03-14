@@ -32,6 +32,6 @@ Sommige dingen vallen pas op als je er als buitenstaander naar kijkt. Met enige 
   {% endfor %}
 </ul>
 
-Geen artikel missen? Volg de [RSS feed](/feed.xml).
+Geen artikel missen? Volg de [RSS feed](https://rssrdr.com/?rss=roaldin.ch/feed.xml).
 
 _Geïnspireerd door [ZOESKLÖT.nl](https://www.zoesklot.nl/)_
