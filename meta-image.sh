@@ -34,4 +34,4 @@ while read -r line; do
         # Replace the image line in the file
         sed -i "s/image:/image: generated\/$IMAGE_FILENAME/" $FILENAME
     fi
-done < <(bundle exec jekyll serve --future)
+done < <(bundle exec jekyll serve --future --incremental)
