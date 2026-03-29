@@ -4,7 +4,7 @@ title: Loonbelasting
 image:
 ---
 
-Als je een permanente verblijfsvergunning hebt of een Zwitsers staatsburger bent, betaal je je loonbelasting pas achteraf. Je loon wordt half bruto uitbetaald. Half, want de sociale premies zoals de WW en de AOW equivalenten worden wel van je loon afgetrokken.
+Als je een permanente verblijfsvergunning hebt of een Zwitsers staatsburger bent, betaal je je loonbelasting pas achteraf. Je loon wordt half bruto uitbetaald. Half, want de sociale premies zoals de WW en de AOW-equivalenten worden wel van je loon afgetrokken.
 
 Dat is even wennen. Je kunt dus niet klakkeloos al je geld uitgeven. Nou is dat sowieso geen goed plan, maar hier al helemaal niet.
 
