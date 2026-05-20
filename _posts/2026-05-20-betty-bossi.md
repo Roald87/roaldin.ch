@@ -14,7 +14,7 @@ De naam is ooit verzonnen door Emmi Creola-Maag. Zij was reclameteksten schrijve
 
 Emmi publiceerde vervolgens de Betty Bossi Post met allerlei recepten[^2]. Dit bleek een succesformule. Met de tijd kwam er een tijdschrift bij, kookboeken en tegenwoordig dus een hele productlijn met etenswaren en kook- en bakspullen.
 
-{% picture betty-bossi-1.jpg %}
+{% picture betty-bossi-1.jpg --alt Een oude krant met de titel Betty Bossi Post aan de linkerkant en Courrier Betty Bossi aan de rechterkant. Beide pagina's bevatten tekst en menuplannen voor maaltijden, met een afbeelding van een vrouw onderaan elke pagina. %}
 _Titelpagina's van de Duitse en Franse eerste uitgave van de Betty Bossi Post. Zwitserse Nationale bibliotheek, Bern.[^2]_
 
 [^1]: <https://de.wikipedia.org/wiki/Betty_Bossi>
